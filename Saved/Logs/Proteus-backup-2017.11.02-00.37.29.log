@@ -1,0 +1,1461 @@
+﻿Log file open, 11/01/17 23:12:03
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Proteus
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-309550574) SRandInit(-309550574).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.174089
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin RunebergVRPlugin
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemOculus
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Unreal Engine/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.11.01-10.12.04:793][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.01-10.12.04:793][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.11.01-10.12.04:860][  0]LogInit: Computer: DESKTOP-SOJBPKL
+[2017.11.01-10.12.04:860][  0]LogInit: User: yche5
+[2017.11.01-10.12.04:860][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.11.01-10.12.04:860][  0]LogInit: High frequency timer resolution =2.531254 MHz
+[2017.11.01-10.12.04:861][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.11.01-10.12.04:861][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.01-10.12.04:861][  0]LogMemory: Process Physical Memory: 281.71 MB used, 281.71 MB peak
+[2017.11.01-10.12.04:861][  0]LogMemory: Process Virtual Memory: 286.52 MB used, 286.52 MB peak
+[2017.11.01-10.12.04:861][  0]LogMemory: Physical Memory: 6862.81 MB used,  9456.98 MB free, 16319.79 MB total
+[2017.11.01-10.12.04:861][  0]LogMemory: Virtual Memory: 684.13 MB used,  9456.98 MB free, 134217728.00 MB total
+[2017.11.01-10.12.04:974][  0]LogInit: Using OS detected language (en-US).
+[2017.11.01-10.12.04:974][  0]LogInit: Using OS detected locale (en-NZ).
+[2017.11.01-10.12.04:977][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.11.01-10.12.05:763][  0]LogD3D11RHI: D3D11 adapters:
+[2017.11.01-10.12.05:820][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2017.11.01-10.12.05:820][  0]LogD3D11RHI:       6084/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.11.01-10.12.05:822][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.11.01-10.12.05:822][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.11.01-10.12.05:822][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.11.01-10.12.05:829][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.11.01-10.12.05:829][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2017.11.01-10.12.05:829][  0]LogWindows: EnumDisplayDevices:
+[2017.11.01-10.12.05:829][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2017.11.01-10.12.05:829][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.11.01-10.12.05:829][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.11.01-10.12.05:829][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.11.01-10.12.05:829][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.11.01-10.12.05:829][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2017.11.01-10.12.05:829][  0]LogD3D11RHI:   Driver Version: 381.78 (internal:22.21.13.8178, unified:381.78)
+[2017.11.01-10.12.05:829][  0]LogD3D11RHI:      Driver Date: 4-12-2017
+[2017.11.01-10.12.05:829][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.11.01-10.12.05:869][  0]LogD3D11RHI: Async texture creation enabled
+[2017.11.01-10.12.05:890][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.11.01-10.12.05:935][  0]LogShaderCompilers: Guid format shader working directory is -5 characters bigger than the processId version (../../../../../dev/Estrellis/ProteusTemplate-master/Intermediate/Shaders/WorkingDirectory/5100/).
+[2017.11.01-10.12.05:935][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yche5/AppData/Local/Temp/UnrealShaderWorkingDir/B214F81D45EEEC5607C27DB0D7C96D27/'.
+[2017.11.01-10.12.05:935][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.11.01-10.12.06:936][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.11.01-10.12.06:982][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.11.01-10.12.07:037][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.11.01-10.12.07:097][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.11.01-10.12.07:142][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.11.01-10.12.07:188][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.11.01-10.12.07:230][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.11.01-10.12.07:277][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.11.01-10.12.07:319][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.11.01-10.12.07:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.11.01-10.12.07:404][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.11.01-10.12.07:444][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.11.01-10.12.07:483][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.11.01-10.12.07:521][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.11.01-10.12.07:562][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.11.01-10.12.07:638][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.11.01-10.12.07:639][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.11.01-10.12.07:665][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.11.01-10.12.07:737][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.11.01-10.12.07:761][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.11.01-10.12.07:800][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.11.01-10.12.07:837][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.11.01-10.12.07:876][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.11.01-10.12.07:916][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.11.01-10.12.07:916][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.11.01-10.12.08:258][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.11.01-10.12.08:361][  0]LogDerivedDataCache: Loaded boot cache 0.10s 93MB C:/Users/yche5/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.01-10.12.08:361][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yche5/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.11.01-10.12.08:361][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../dev/Estrellis/ProteusTemplate-master/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.11.01-10.12.08:361][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.11.01-10.12.08:361][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../dev/Estrellis/ProteusTemplate-master/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.11.01-10.12.08:361][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.11.01-10.12.08:378][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.11.01-10.12.08:390][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yche5/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.11.01-10.12.08:422][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.11.01-10.12.08:422][  0]LogSlate: Using Freetype 2.6.0
+[2017.11.01-10.12.08:422][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.01-10.12.08:422][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.11.01-10.12.08:726][  0]LogAssetRegistry: FAssetRegistry took 0.0260 seconds to start up
+[2017.11.01-10.12.08:836][  0]LogInit: Selected Device Profile: [Windows]
+[2017.11.01-10.12.09:398][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.11.01-10.12.09:427][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.11.01-10.12.09:427][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.11.01-10.12.09:427][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.11.01-10.12.09:427][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.11.01-10.12.09:427][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.11.01-10.12.09:428][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.11.01-10.12.10:131][  0]LogNetVersion: Proteus , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 389468371)
+[2017.11.01-10.12.10:664][  0]LogPackageLocalizationCache: Processed 6 localized package path(s) for 2 prioritized culture(s) in 0.182886 seconds
+[2017.11.01-10.12.10:670][  0]LogUObjectArray: 35832 objects as part of root set at end of initial load.
+[2017.11.01-10.12.10:670][  0]LogUObjectAllocator: 7742872 out of 0 bytes used by permanent object pool.
+[2017.11.01-10.12.10:670][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.11.01-10.12.13:233][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.11.01-10.12.13:264][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.11.01-10.12.13:816][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2017.11.01-10.12.14:097][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/BaseColor.BaseColor for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.01-10.12.14:097][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.01-10.12.14:131][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.01-10.12.14:160][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2017.11.01-10.12.14:161][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/LightingModel.LightingModel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.01-10.12.14:161][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.01-10.12.14:165][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2017.11.01-10.12.14:165][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/MaterialAO.MaterialAO for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.01-10.12.14:165][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.01-10.12.14:168][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2017.11.01-10.12.14:169][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/Metallic.Metallic for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.01-10.12.14:169][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.01-10.12.14:172][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2017.11.01-10.12.14:173][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/Opacity.Opacity for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.01-10.12.14:173][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.01-10.12.14:176][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2017.11.01-10.12.14:176][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/Roughness.Roughness for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.01-10.12.14:177][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.01-10.12.14:227][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2017.11.01-10.12.14:227][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/Specular.Specular for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.01-10.12.14:227][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.01-10.12.14:231][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2017.11.01-10.12.14:231][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/SubsurfaceColor.SubsurfaceColor for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.01-10.12.14:231][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.01-10.12.14:236][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2017.11.01-10.12.14:254][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/WorldNormal.WorldNormal for platform PCD3D_SM5, Default Material will be used in game.
+[2017.11.01-10.12.14:254][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.11.01-10.12.14:553][  0]SourceControl: Source control is disabled
+[2017.11.01-10.12.14:553][  0]SourceControl: Source control is disabled
+[2017.11.01-10.12.14:585][  0]SourceControl: Source control is disabled
+[2017.11.01-10.12.14:644][  0]SourceControl: Source control is disabled
+[2017.11.01-10.12.15:597][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.11.01-10.12.15:763][  0]LogOcInput: OculusInput pre-init called
+[2017.11.01-10.12.15:995][  0]LogEngine: Initializing Engine...
+[2017.11.01-10.12.16:016][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2017.11.01-10.12.16:466][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.11.01-10.12.16:466][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.11.01-10.12.17:101][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.11.01-10.12.17:106][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.01-10.12.17:126][  0]LogInit: FAudioDevice initialized.
+[2017.11.01-10.12.17:227][  0]LogDerivedDataCache: Saved boot cache 0.10s 107MB C:/Users/yche5/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.11.01-10.12.17:248][  0]LogInit: Texture streaming: Enabled
+[2017.11.01-10.12.17:375][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.11.01-10.12.17:852][  0]LogInit: Transaction tracking system initialized
+[2017.11.01-10.12.18:125][  0]BlueprintLog: New page: Editor Load
+[2017.11.01-10.12.18:783][  0]LocalizationService: Localization service is disabled
+[2017.11.01-10.12.19:172][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2017.11.01-10.12.19:172][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2017.11.01-10.12.19:172][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2017.11.01-10.12.19:297][  0]LogConsoleResponse: Display: 
+[2017.11.01-10.12.19:695][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.11.01-10.12.19:695][  0]LogCook: Display: Mobile HDR setting 1
+[2017.11.01-10.12.19:695][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.11.01-10.12.20:406][  0]LogFileCache: Scanning file cache for directory 'D:/dev/Estrellis/ProteusTemplate-master/Content/' took 0.04s
+[2017.11.01-10.12.20:442][  0]SourceControl: Source control is disabled
+[2017.11.01-10.12.20:443][  0]Cmd: MAP LOAD FILE="../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.11.01-10.12.20:538][  0]LightingResults: New page: Lighting Build
+[2017.11.01-10.12.20:573][  0]MapCheck: New page: Map Check
+[2017.11.01-10.12.20:573][  0]LightingResults: New page: Lighting Build
+[2017.11.01-10.12.26:610][  0]LogBlueprint: Warning: [IPConnectMenu] 'GameInstanceRef' variable not found. Base class was probably changed.
+[2017.11.01-10.12.29:438][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.11.01-10.12.31:846][  0]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.01-10.12.32:254][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.11.01-10.12.32:332][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.11.01-10.12.32:382][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 49.415ms to complete.
+[2017.11.01-10.12.32:382][  0]LogFileHelpers: Loading map 'MainMenu' took 11.939
+[2017.11.01-10.12.33:351][  0]LogCollectionManager: Loaded 0 collections in 0.006948 seconds
+[2017.11.01-10.12.33:506][  0]LogFileCache: Scanning file cache for directory 'D:/dev/Estrellis/ProteusTemplate-master/Saved/Collections/' took 0.01s
+[2017.11.01-10.12.33:506][  0]LogFileCache: Scanning file cache for directory 'D:/dev/Estrellis/ProteusTemplate-master/Content/Developers/yche5/Collections/' took 0.01s
+[2017.11.01-10.12.33:506][  0]LogFileCache: Scanning file cache for directory 'D:/dev/Estrellis/ProteusTemplate-master/Content/Collections/' took 0.01s
+[2017.11.01-10.12.33:506][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.11.01-10.12.33:531][  0]LogContentBrowser: Native class hierarchy populated in 0.0098 seconds. Added 2405 classes and 509 folders.
+[2017.11.01-10.12.33:660][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.11.01-10.12.34:525][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0007 seconds. Added 0 classes and 0 folders.
+[2017.11.01-10.12.34:616][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.11.01-10.12.38:680][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Proteus
+[2017.11.01-10.12.38:680][  0]LogTemp: CWD: D:\Unreal Engine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.11.01-10.12.38:680][  0]LogTemp: Initial Dir: D:\Unreal Engine\UE_4.17
+[2017.11.01-10.12.38:680][  0]LogTemp: Env CWD: D:\Unreal Engine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.11.01-10.12.38:680][  0]LogTemp: BranchPath = DESKTOP-SOJBPKL/D/Unreal Engine/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-SOJBPKL/D/Unreal Engine/UE_4.17/Engine/Binaries
+[2017.11.01-10.12.38:680][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\yche5\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.11.01-10.12.38:680][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.01-10.12.38:691][  0]LogSlate: Took 0.000218 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.11.01-10.12.38:779][  0]LogSlate: Took 0.015102 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.11.01-10.12.39:405][  0]LogRenderer: Reallocating scene render targets to support 1224x548 Format 10 NumSamples 4 (Frame:1).
+[2017.11.01-10.12.40:340][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.11.01-10.12.40:340][  0]LogLoad: (Engine Initialization) Total time: 40.60 seconds
+[2017.11.01-10.12.40:340][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.11.01-10.12.40:341][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.11.01-10.12.40:341][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.11.01-10.12.40:887][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.11.01-10.12.41:084][  0]LogSlate: Took 0.024175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.01-10.12.41:100][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/dev/Estrellis/ProteusTemplate-master/Content/' took 0.37s
+[2017.11.01-10.12.41:439][  2]LogAssetRegistry: Asset discovery search completed in 32.7344 seconds
+[2017.11.01-10.12.41:458][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.11.01-10.12.41:459][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000080 seconds (updated 0 objects)
+[2017.11.01-10.12.41:785][  3]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.01-11.30.32:179][ 32]LogSlate: Took 0.000106 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.11.01-11.30.32:255][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenu" FILE="../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.01-11.30.33:135][ 32]LogSavePackage: Save=488.74ms
+[2017.11.01-11.30.33:135][ 32]LogSavePackage: Moving '../../../../../dev/Estrellis/ProteusTemplate-master/Saved/MainMenuC325553641958D01445345B17C9FCC13.tmp' to '../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MainMenu.umap'
+[2017.11.01-11.30.33:155][ 32]LogSavePackage: Display: Finished SavePackage ../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MainMenu.umap
+[2017.11.01-11.30.33:217][ 32]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenu_BuiltData" FILE="../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MainMenu_BuiltData.uasset" SILENT=true
+[2017.11.01-11.30.33:280][ 32]LogSavePackage: Save=46.77ms
+[2017.11.01-11.30.33:281][ 32]LogSavePackage: Moving '../../../../../dev/Estrellis/ProteusTemplate-master/Saved/MainMenu_BuiltDataED0D022146897E5285CAA9A2F2848D30.tmp' to '../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MainMenu_BuiltData.uasset'
+[2017.11.01-11.30.33:298][ 32]LogSavePackage: Display: Finished SavePackage ../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MainMenu_BuiltData.uasset
+[2017.11.01-11.30.35:275][219]PIE: Warning: Constraint in '/Engine/Transient.World_4:PersistentLevel.BP_InteractableActor_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2017.11.01-11.30.41:083][787]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.01-11.30.41:106][787]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.01-11.30.41:153][787]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.01-11.30.41:153][787]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.01-11.30.41:165][787]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.01-11.30.41:165][787]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.01-11.30.41:165][787]LogOnline: Warning: STEAM: Steam API disabled!
+[2017.11.01-11.30.41:165][787]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2017.11.01-11.30.41:233][787]PIE: New page: PIE session: MainMenu (2/11/2017 1:30:41 pm)
+[2017.11.01-11.30.41:259][787]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_1_MainMenu
+[2017.11.01-11.30.41:360][787]LogPlayLevel: PIE: StaticDuplicateObject took: (0.101054s)
+[2017.11.01-11.30.41:361][787]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.01-11.30.41:361][787]LogPlayLevel: PIE: World Init took: (0.000707s)
+[2017.11.01-11.30.41:383][787]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_1_MainMenu.MainMenu (0.132181s)
+[2017.11.01-11.30.41:422][787]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.01-11.30.41:435][787]LogInit: FAudioDevice initialized.
+[2017.11.01-11.30.41:559][787]LogLoad: Game class is 'MainMenuGM_C'
+[2017.11.01-11.30.41:681][787]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.02-00.30.41
+[2017.11.01-11.30.41:734][787]LogWorld: Bringing up level for play took: 0.056148
+[2017.11.01-11.30.42:076][787]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.11.01-11.30.42:099][787]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.30.42:144][787]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.11.01-11.30.42:189][787]LogBlueprintUserMessages: [MainMenuGM_C_0] Server: VR is disabled
+[2017.11.01-11.30.42:503][787]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.30.42:511][787]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2017.11.01-11.30.42:511][787]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.30.42:531][787]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.11.01-11.30.42:549][787]LogInit: WinSock: I am DESKTOP-SOJBPKL (192.168.1.66:0)
+[2017.11.01-11.30.42:558][787]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.30.42:560][787]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 7777
+[2017.11.01-11.30.42:695][787]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu'!
+[2017.11.01-11.30.42:735][787]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_1_MainMenu 1.33
+[2017.11.01-11.30.42:747][787]PIE: New page: PIE session: MainMenu (2/11/2017 1:30:42 pm)
+[2017.11.01-11.30.42:832][787]LogNet: Browse: 127.0.0.1//Game/Proteus_Multi/MainMenu
+[2017.11.01-11.30.42:832][787]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.30.42:832][787]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2017.11.01-11.30.42:832][787]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.11.01-11.30.42:833][787]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.11.01-11.30.42:838][787]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.30.42:844][787]LogNet: Game client on port 7777, rate 500000
+[2017.11.01-11.30.42:850][787]PIE: Play in editor start time for /Game/Proteus_Multi/MainMenu 1.444
+[2017.11.01-11.30.42:858][787]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.01-11.30.42:901][787]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56736
+[2017.11.01-11.30.42:901][787]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 018141051177147212219172155240142076242212197113114136051073
+[2017.11.01-11.30.43:055][787]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 018141051177147212219172155240142076242212197113114136051073
+[2017.11.01-11.30.43:132][787]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 4 (Frame:1).
+[2017.11.01-11.30.43:231][788]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56736
+[2017.11.01-11.30.43:231][788]LogHandshake: SendChallengeAck. InCookie: 018141051177147212219172155240142076242212197113114136051073
+[2017.11.01-11.30.43:231][788]LogNet: Server accepting post-challenge connection from: 127.0.0.1:56736
+[2017.11.01-11.30.43:231][788]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.30.43:261][788]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 11/02/17 00:30:43, [UNetConnection] RemoteAddr: 127.0.0.1:56736, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.01-11.30.43:270][788]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:56736, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.01-11.30.43:281][788]LogNetVersion: Proteus 3.2.2, NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1497177692)
+[2017.11.01-11.30.43:281][788]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL
+[2017.11.01-11.30.43:318][789]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Proteus_Multi/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.11.01-11.30.43:318][789]LogNet: Remote platform little endian=1
+[2017.11.01-11.30.43:318][789]LogNet: This platform little endian=1
+[2017.11.01-11.30.43:351][790]LogNet: Login request: /Game/Proteus_Multi/MainMenu?Name=DESKTOP-SOJBPKL-5B3D512C419352B4FBD8C990B083177F userId: DESKTOP-SOJBPKL-5B3D512C419352B4FBD8C990B083177F
+[2017.11.01-11.30.43:358][790]LogNet: Welcomed by server (Level: /Game/Proteus_Multi/UEDPIE_1_MainMenu, Game: /Game/Proteus_Multi/MainMenuGM.MainMenuGM_C)
+[2017.11.01-11.30.43:364][790]LogLoad: LoadMap: 127.0.0.1//Game/Proteus_Multi/UEDPIE_1_MainMenu?game=/Game/Proteus_Multi/MainMenuGM.MainMenuGM_C
+[2017.11.01-11.30.43:378][790]Cmd: MEM
+[2017.11.01-11.30.43:510][790]LogMemory: Platform Memory Stats for Windows
+[2017.11.01-11.30.43:510][790]LogMemory: Process Physical Memory: 1304.49 MB used, 1448.96 MB peak
+[2017.11.01-11.30.43:510][790]LogMemory: Process Virtual Memory: 2620.66 MB used, 2623.18 MB peak
+[2017.11.01-11.30.43:510][790]LogMemory: Physical Memory: 5328.20 MB used,  10991.60 MB free, 16319.79 MB total
+[2017.11.01-11.30.43:510][790]LogMemory: Virtual Memory: 3535.11 MB used,  10991.60 MB free, 134217728.00 MB total
+[2017.11.01-11.30.43:510][790]LogMemory: 
+[2017.11.01-11.30.43:510][790]Allocator Stats for TBB: (not implemented)
+[2017.11.01-11.30.43:553][790]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.01-11.30.43:553][790]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.30.43:557][790]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.02-00.30.43
+[2017.11.01-11.30.43:557][790]LogWorld: Bringing up level for play took: 0.002580
+[2017.11.01-11.30.43:558][790]LogLoad: Took 0.194267 seconds to LoadMap(/Game/Proteus_Multi/UEDPIE_1_MainMenu)
+[2017.11.01-11.30.43:563][790]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.11.01-11.30.43:622][791]LogNet: Client netspeed is 500000
+[2017.11.01-11.30.43:622][791]LogNet: Join request: /Game/Proteus_Multi/MainMenu?Name=DESKTOP-SOJBPKL-5B3D512C419352B4FBD8C990B083177F?SplitscreenCount=1
+[2017.11.01-11.30.43:623][791]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.11.01-11.30.43:674][791]LogBlueprintUserMessages: [MainMenuGM_C_0] Server: VR is disabled
+[2017.11.01-11.30.43:696][791]LogNet: Join succeeded: DESKTOP-SOJBPKL-5B3D
+[2017.11.01-11.30.43:729][791]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.30.43:760][792]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.11.01-11.30.43:761][792]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.11.01-11.30.44:703][861]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu'!
+[2017.11.01-11.30.45:589][934]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu'!
+[2017.11.01-11.30.46:932][ 44]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.30.46:934][ 44]LogNet: Browse: /Game/Proteus_Multi/MultiMap01?listen
+[2017.11.01-11.30.46:934][ 44]LogLoad: LoadMap: /Game/Proteus_Multi/MultiMap01?listen
+[2017.11.01-11.30.46:934][ 44]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2017.11.01-11.30.46:934][ 44]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2017.11.01-11.30.46:959][ 44]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:56736, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MainMenuPC_C_1, Owner: MainMenuPC_C_1
+[2017.11.01-11.30.46:959][ 44]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:56736, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MainMenuPC_C_1, Owner: MainMenuPC_C_1, Channels: 10, Time: 2017.11.01-11.30.46
+[2017.11.01-11.30.46:959][ 44]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:56736, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: MainMenuPC_C_1, Owner: MainMenuPC_C_1
+[2017.11.01-11.30.46:959][ 44]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2017.11.01-11.30.47:047][ 44]Cmd: MEM
+[2017.11.01-11.30.47:058][ 44]LogMemory: Platform Memory Stats for Windows
+[2017.11.01-11.30.47:058][ 44]LogMemory: Process Physical Memory: 1355.93 MB used, 1448.96 MB peak
+[2017.11.01-11.30.47:058][ 44]LogMemory: Process Virtual Memory: 2429.36 MB used, 2663.52 MB peak
+[2017.11.01-11.30.47:059][ 44]LogMemory: Physical Memory: 5377.41 MB used,  10942.38 MB free, 16319.79 MB total
+[2017.11.01-11.30.47:059][ 44]LogMemory: Virtual Memory: 3456.24 MB used,  10942.38 MB free, 134217728.00 MB total
+[2017.11.01-11.30.47:059][ 44]LogMemory: 
+[2017.11.01-11.30.47:059][ 44]Allocator Stats for TBB: (not implemented)
+[2017.11.01-11.30.50:776][ 44]LogAIModule: Creating AISystem for world MultiMap01
+[2017.11.01-11.30.50:777][ 44]LogLoad: Game class is 'MultiGM_C'
+[2017.11.01-11.30.50:777][ 44]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.30.50:777][ 44]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2017.11.01-11.30.50:777][ 44]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.30.50:778][ 44]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.11.01-11.30.50:778][ 44]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.30.50:778][ 44]LogNet: GameNetDriver IpNetDriver_2 IpNetDriver listening on port 7777
+[2017.11.01-11.30.50:817][ 44]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_1_MultiMap01.MultiMap01 up for play (max tick rate 0) at 2017.11.02-00.30.50
+[2017.11.01-11.30.50:835][ 44]LogWorld: Bringing up level for play took: 0.055960
+[2017.11.01-11.30.50:836][ 44]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.11.01-11.30.50:836][ 44]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'PlayerStarts' of length 0 in '/Game/Proteus_Multi/MultiGM.MultiGM_C'!
+[2017.11.01-11.30.50:862][ 44]Cmd: vr.bEnableStereo True
+[2017.11.01-11.30.50:862][ 44]Cmd: r.ScreenPercentage 130.0
+[2017.11.01-11.30.50:862][ 44]r.ScreenPercentage = "130"
+[2017.11.01-11.30.50:862][ 44]Cmd: r.ViewDistanceScale 2
+[2017.11.01-11.30.50:862][ 44]r.ViewDistanceScale = "2"
+[2017.11.01-11.30.50:862][ 44]Cmd: sg.AntiAliasingQuality 3
+[2017.11.01-11.30.50:862][ 44]sg.AntiAliasingQuality = "3"
+[2017.11.01-11.30.50:862][ 44]Cmd: sg.ShadowQuality 3
+[2017.11.01-11.30.50:862][ 44]sg.ShadowQuality = "3"
+[2017.11.01-11.30.50:862][ 44]Cmd: r.MaxAnisotropy 8
+[2017.11.01-11.30.50:862][ 44]r.MaxAnisotropy = "8"
+[2017.11.01-11.30.50:862][ 44]Cmd: r.Streaming.MipBias 0
+[2017.11.01-11.30.50:862][ 44]r.Streaming.MipBias = "0"
+[2017.11.01-11.30.50:862][ 44]Cmd: r.SeparateTranslucency 0
+[2017.11.01-11.30.50:862][ 44]r.SeparateTranslucency = "0"
+[2017.11.01-11.30.50:862][ 44]Cmd: r.BloomQuality 0
+[2017.11.01-11.30.50:862][ 44]r.BloomQuality = "0"
+[2017.11.01-11.30.50:862][ 44]Cmd: EnableAllScreenMessages
+[2017.11.01-11.30.50:862][ 44]LogEngine: Onscreen warngins/messages are now ENABLED
+[2017.11.01-11.30.50:862][ 44]Cmd: r.setres 1920x1080
+[2017.11.01-11.30.50:862][ 44]r.SetRes = "1920x1080"
+[2017.11.01-11.30.50:936][ 44]LogRenderer: Reallocating scene render targets to support 1292x1024 Format 10 NumSamples 4 (Frame:1).
+[2017.11.01-11.30.50:974][ 44]LogRenderer: Reallocating scene render targets to support 2484x1360 Format 10 NumSamples 4 (Frame:1).
+[2017.11.01-11.30.51:015][ 44]Cmd: r.streaming.poolsize 3000
+[2017.11.01-11.30.51:015][ 44]r.Streaming.PoolSize = "3000"
+[2017.11.01-11.30.51:016][ 44]LogLoad: Took 4.082591 seconds to LoadMap(/Game/Proteus_Multi/MultiMap01)
+[2017.11.01-11.30.51:045][ 44]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.11.01-11.30.51:045][ 44]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.11.01-11.30.51:045][ 44]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2017.11.01-11.30.51:063][ 44]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: MainMenuPC_C_0, Owner: MainMenuPC_C_0, Channels: 10, Time: 2017.11.01-11.30.51
+[2017.11.01-11.30.51:063][ 44]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: MainMenuPC_C_0, Owner: MainMenuPC_C_0
+[2017.11.01-11.30.51:063][ 44]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.11.01-11.30.51:063][ 44]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.11.01-11.30.51:063][ 44]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2017.11.01-11.30.51:065][ 44]LogContentStreaming: Texture pool size now 3000 MB
+[2017.11.01-11.30.51:108][ 45]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56736
+[2017.11.01-11.30.51:108][ 45]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:56736
+[2017.11.01-11.30.51:109][ 45]LogNet: Browse: /Game/Proteus_Multi/MainMenu?closed
+[2017.11.01-11.30.51:109][ 45]LogNet: Failed; returning to Entry
+[2017.11.01-11.30.51:109][ 45]LogLoad: LoadMap: /Game/Proteus_Multi/MainMenu?closed
+[2017.11.01-11.30.51:109][ 45]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2017.11.01-11.30.51:109][ 45]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2017.11.01-11.30.51:109][ 45]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2017.11.01-11.30.51:131][ 45]Cmd: MEM
+[2017.11.01-11.30.51:145][ 45]LogMemory: Platform Memory Stats for Windows
+[2017.11.01-11.30.51:145][ 45]LogMemory: Process Physical Memory: 1684.11 MB used, 1684.11 MB peak
+[2017.11.01-11.30.51:145][ 45]LogMemory: Process Virtual Memory: 3402.10 MB used, 3402.10 MB peak
+[2017.11.01-11.30.51:145][ 45]LogMemory: Physical Memory: 5627.88 MB used,  10691.92 MB free, 16319.79 MB total
+[2017.11.01-11.30.51:145][ 45]LogMemory: Virtual Memory: 4336.55 MB used,  10691.92 MB free, 134217728.00 MB total
+[2017.11.01-11.30.51:145][ 45]LogMemory: 
+[2017.11.01-11.30.51:145][ 45]Allocator Stats for TBB: (not implemented)
+[2017.11.01-11.30.51:145][ 45]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_2_MainMenu
+[2017.11.01-11.30.51:157][ 45]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011935s)
+[2017.11.01-11.30.51:158][ 45]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.01-11.30.51:158][ 45]LogPlayLevel: PIE: World Init took: (0.000843s)
+[2017.11.01-11.30.51:159][ 45]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_2_MainMenu.MainMenu (0.013173s)
+[2017.11.01-11.30.51:159][ 45]LogLoad: Game class is 'MainMenuGM_C'
+[2017.11.01-11.30.51:164][ 45]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.02-00.30.51
+[2017.11.01-11.30.51:164][ 45]LogWorld: Bringing up level for play took: 0.004632
+[2017.11.01-11.30.51:165][ 45]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.30.51:165][ 45]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.11.01-11.30.51:170][ 45]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu'!
+[2017.11.01-11.30.51:170][ 45]LogLoad: Took 0.061426 seconds to LoadMap(/Game/Proteus_Multi/UEDPIE_2_MainMenu)
+[2017.11.01-11.30.51:184][ 45]PIE: Warning: The widget 'OptionsMenu_C' was already added to the screen.
+[2017.11.01-11.30.53:595][148]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu'!
+[2017.11.01-11.30.54:778][249]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu'!
+[2017.11.01-11.30.55:701][327]LogScript: Warning: Accessed None trying to read property VRErrorDialog
+	ErrorDialog_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_1.ErrorDialog_C_1
+	Function /Game/Proteus_Multi/UI/Widgets/ErrorDialog.ErrorDialog_C:ExecuteUbergraph_ErrorDialog:002D
+[2017.11.01-11.30.55:761][327]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property VRErrorDialog from function: 'ExecuteUbergraph_ErrorDialog' from node: DestroyActor in graph: EventGraph in object: ErrorDialog with description: Accessed None trying to read property VRErrorDialog
+[2017.11.01-11.30.55:762][327]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2017.11.01-11.30.56:613][399]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu'!
+[2017.11.01-11.30.57:423][468]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/Steam_LAN_Menu.Steam_LAN_Menu_C:ExecuteUbergraph_Steam_LAN_Menu'!
+[2017.11.01-11.31.04:254][996]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.31.04:256][996]LogNet: Browse: 192.168.1.66//Game/Proteus_Multi/MainMenu
+[2017.11.01-11.31.04:256][996]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.31.04:256][996]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2017.11.01-11.31.04:256][996]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.11.01-11.31.04:256][996]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.11.01-11.31.04:256][996]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.31.04:257][996]LogNet: Game client on port 7777, rate 500000
+[2017.11.01-11.31.04:268][997]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.66:58447
+[2017.11.01-11.31.04:268][997]LogHandshake: SendConnectChallenge. Timestamp: 17.388229, Cookie: 163009188161117043121165254152199140059000121072059032203066
+[2017.11.01-11.31.04:269][997]LogHandshake: SendChallengeResponse. Timestamp: 17.388229, Cookie: 163009188161117043121165254152199140059000121072059032203066
+[2017.11.01-11.31.04:282][998]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.66:58447
+[2017.11.01-11.31.04:282][998]LogHandshake: SendChallengeAck. InCookie: 163009188161117043121165254152199140059000121072059032203066
+[2017.11.01-11.31.04:282][998]LogNet: Server accepting post-challenge connection from: 192.168.1.66:58447
+[2017.11.01-11.31.04:282][998]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.31.04:282][998]LogNet: NotifyAcceptedConnection: Name: MultiMap01, TimeStamp: 11/02/17 00:31:04, [UNetConnection] RemoteAddr: 192.168.1.66:58447, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.01-11.31.04:282][998]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.1.66:58447, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_2, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.01-11.31.04:283][998]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.1.66:7777, Name: IpConnection_2, Driver: PendingNetDriver IpNetDriver_3, IsServer: NO, PC: NULL, Owner: NULL
+[2017.11.01-11.31.04:294][999]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Proteus_Multi/UEDPIE_1_MultiMap01.MultiMap01: Accepted
+[2017.11.01-11.31.04:294][999]LogNet: Remote platform little endian=1
+[2017.11.01-11.31.04:294][999]LogNet: This platform little endian=1
+[2017.11.01-11.31.04:306][  0]LogNet: Login request: /Game/Proteus_Multi/MainMenu?Name=DESKTOP-SOJBPKL-5B3D512C419352B4FBD8C990B083177F userId: DESKTOP-SOJBPKL-5B3D512C419352B4FBD8C990B083177F
+[2017.11.01-11.31.04:307][  0]LogNet: Welcomed by server (Level: /Game/Proteus_Multi/UEDPIE_1_MultiMap01, Game: /Game/Proteus_Multi/MultiGM.MultiGM_C)
+[2017.11.01-11.31.04:307][  0]LogLoad: LoadMap: 192.168.1.66//Game/Proteus_Multi/UEDPIE_1_MultiMap01?game=/Game/Proteus_Multi/MultiGM.MultiGM_C
+[2017.11.01-11.31.04:323][  0]Cmd: MEM
+[2017.11.01-11.31.04:337][  0]LogMemory: Platform Memory Stats for Windows
+[2017.11.01-11.31.04:337][  0]LogMemory: Process Physical Memory: 1585.36 MB used, 1694.46 MB peak
+[2017.11.01-11.31.04:337][  0]LogMemory: Process Virtual Memory: 2913.77 MB used, 3419.46 MB peak
+[2017.11.01-11.31.04:337][  0]LogMemory: Physical Memory: 5521.85 MB used,  10797.95 MB free, 16319.79 MB total
+[2017.11.01-11.31.04:337][  0]LogMemory: Virtual Memory: 4103.93 MB used,  10797.95 MB free, 134217728.00 MB total
+[2017.11.01-11.31.04:337][  0]LogMemory: 
+[2017.11.01-11.31.04:337][  0]Allocator Stats for TBB: (not implemented)
+[2017.11.01-11.31.04:869][  0]LogAIModule: Creating AISystem for world MultiMap01
+[2017.11.01-11.31.04:869][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.31.04:877][  0]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_2_MultiMap01.MultiMap01 up for play (max tick rate 0) at 2017.11.02-00.31.04
+[2017.11.01-11.31.04:878][  0]LogWorld: Bringing up level for play took: 0.007305
+[2017.11.01-11.31.04:881][  0]LogLoad: Took 0.573495 seconds to LoadMap(/Game/Proteus_Multi/UEDPIE_1_MultiMap01)
+[2017.11.01-11.31.04:917][  1]LogNet: Client netspeed is 500000
+[2017.11.01-11.31.04:918][  1]LogNet: Join request: /Game/Proteus_Multi/MainMenu?Name=DESKTOP-SOJBPKL-5B3D512C419352B4FBD8C990B083177F?SplitscreenCount=1
+[2017.11.01-11.31.04:946][  1]LogNet: Join succeeded: DESKTOP-SOJBPKL-5B3D
+[2017.11.01-11.31.04:948][  1]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.11.01-11.31.04:950][  1]Cmd: vr.bEnableStereo True
+[2017.11.01-11.31.04:950][  1]Cmd: r.ScreenPercentage 130.0
+[2017.11.01-11.31.04:951][  1]r.ScreenPercentage = "130"
+[2017.11.01-11.31.04:951][  1]Cmd: r.ViewDistanceScale 2
+[2017.11.01-11.31.04:951][  1]r.ViewDistanceScale = "2"
+[2017.11.01-11.31.04:951][  1]Cmd: sg.AntiAliasingQuality 3
+[2017.11.01-11.31.04:951][  1]sg.AntiAliasingQuality = "3"
+[2017.11.01-11.31.04:951][  1]Cmd: sg.ShadowQuality 3
+[2017.11.01-11.31.04:951][  1]sg.ShadowQuality = "3"
+[2017.11.01-11.31.04:951][  1]Cmd: r.MaxAnisotropy 8
+[2017.11.01-11.31.04:951][  1]r.MaxAnisotropy = "8"
+[2017.11.01-11.31.04:951][  1]Cmd: r.Streaming.MipBias 0
+[2017.11.01-11.31.04:951][  1]r.Streaming.MipBias = "0"
+[2017.11.01-11.31.04:951][  1]Cmd: r.SeparateTranslucency 0
+[2017.11.01-11.31.04:951][  1]r.SeparateTranslucency = "0"
+[2017.11.01-11.31.04:951][  1]Cmd: r.BloomQuality 0
+[2017.11.01-11.31.04:951][  1]r.BloomQuality = "0"
+[2017.11.01-11.31.04:951][  1]Cmd: EnableAllScreenMessages
+[2017.11.01-11.31.04:951][  1]LogEngine: Onscreen warngins/messages are now ENABLED
+[2017.11.01-11.31.04:951][  1]Cmd: r.setres 1920x1080
+[2017.11.01-11.31.04:951][  1]r.SetRes = "1920x1080"
+[2017.11.01-11.31.04:951][  1]Cmd: r.streaming.poolsize 3000
+[2017.11.01-11.31.04:951][  1]r.Streaming.PoolSize = "3000"
+[2017.11.01-11.31.04:982][  3]LogVoiceDecode: Display: DecoderVersion: libopus 1.1-beta
+[2017.11.01-11.31.05:105][  9]LogVoiceDecode: Display: DecoderVersion: libopus 1.1-beta
+[2017.11.01-11.31.10:558][427]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.01-11.31.10:665][427]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.01-11.31.10:665][427]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.01-11.31.10:675][427]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.01-11.31.10:675][427]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.01-11.31.10:675][427]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2017.11.01-11.31.10:722][427]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.01-11.31.10:722][427]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.01-11.31.10:735][427]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.01-11.31.10:735][427]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.01-11.31.10:735][427]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.11.01-11.31.10:735][427]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.01-11.31.10:761][427]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.66:58447, Name: IpConnection_3, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2017.11.01-11.31.10:762][427]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.66:58447, Name: IpConnection_3, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.11.01-11.31.10
+[2017.11.01-11.31.10:762][427]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.66:58447, Name: IpConnection_3, Driver: GameNetDriver None, IsServer: YES, PC: None, Owner: None
+[2017.11.01-11.31.10:762][427]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.66:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2017.11.01-11.31.10:762][427]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.66:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.11.01-11.31.10
+[2017.11.01-11.31.10:762][427]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.66:7777, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_3, IsServer: NO, PC: None, Owner: None
+[2017.11.01-11.31.10:777][427]LogExit: GameNetDriver None shut down
+[2017.11.01-11.31.10:779][427]LogExit: GameNetDriver None shut down
+[2017.11.01-11.31.10:811][428]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2017.11.01-11.31.10:811][428]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.01-11.31.10:811][428]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2017.11.01-11.31.10:811][428]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.01-11.31.11:724][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenu" FILE="../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MainMenu.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.11.01-11.31.11:973][520]LogSavePackage: Save=228.01ms
+[2017.11.01-11.31.11:974][520]LogSavePackage: Moving '../../../../../dev/Estrellis/ProteusTemplate-master/Saved/MainMenu9315EDF74CFE3C1D62BD28A795425F85.tmp' to '../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MainMenu.umap'
+[2017.11.01-11.31.11:974][520]LogSavePackage: Display: Finished SavePackage ../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MainMenu.umap
+[2017.11.01-11.31.12:009][520]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenu_BuiltData" FILE="../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MainMenu_BuiltData.uasset" SILENT=true
+[2017.11.01-11.31.12:044][520]LogSavePackage: Save=24.52ms
+[2017.11.01-11.31.12:044][520]LogSavePackage: Moving '../../../../../dev/Estrellis/ProteusTemplate-master/Saved/MainMenu_BuiltDataD85E742E470DEC2C73B5C4A2D78FEE1E.tmp' to '../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MainMenu_BuiltData.uasset'
+[2017.11.01-11.31.12:045][520]LogSavePackage: Display: Finished SavePackage ../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MainMenu_BuiltData.uasset
+[2017.11.01-11.31.15:175][798]LogSlate: Took 0.000114 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.11.01-11.31.15:510][798]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 113 classes and 0 folders.
+[2017.11.01-11.31.17:550][798]LogSlate: Took 0.019064 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.11.01-11.31.22:975][336]LogSlate: Took 0.027843 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2017.11.01-11.31.23:406][377]LogSlate: Took 0.018420 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.11.01-11.31.27:202][793]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MultiGM" FILE="../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset" SILENT=true
+[2017.11.01-11.31.27:451][793]LogSavePackage: Save=191.00ms
+[2017.11.01-11.31.27:451][793]LogSavePackage: Moving '../../../../../dev/Estrellis/ProteusTemplate-master/Saved/MultiGM0C11E31E43E721341D577EA836DFBF6D.tmp' to '../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset'
+[2017.11.01-11.31.27:452][793]LogSavePackage: Display: Finished SavePackage ../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset
+[2017.11.01-11.31.43:559][694]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MultiGM" FILE="../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset" SILENT=true
+[2017.11.01-11.31.43:765][694]LogSavePackage: Save=195.18ms
+[2017.11.01-11.31.43:765][694]LogSavePackage: Moving '../../../../../dev/Estrellis/ProteusTemplate-master/Saved/MultiGM98047FFA4ECD78E2C01CC98254C73389.tmp' to '../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset'
+[2017.11.01-11.31.43:766][694]LogSavePackage: Display: Finished SavePackage ../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset
+[2017.11.01-11.33.27:440][130]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MultiGM" FILE="../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset" SILENT=true
+[2017.11.01-11.33.27:641][130]LogSavePackage: Save=190.75ms
+[2017.11.01-11.33.27:642][130]LogSavePackage: Moving '../../../../../dev/Estrellis/ProteusTemplate-master/Saved/MultiGMCFA91F7E4FBE4CE8AF6CB484E414E5CA.tmp' to '../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset'
+[2017.11.01-11.33.27:643][130]LogSavePackage: Display: Finished SavePackage ../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset
+[2017.11.01-11.33.32:321][643]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MultiGM" FILE="../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset" SILENT=true
+[2017.11.01-11.33.32:581][643]LogSavePackage: Save=251.12ms
+[2017.11.01-11.33.32:581][643]LogSavePackage: Moving '../../../../../dev/Estrellis/ProteusTemplate-master/Saved/MultiGM915B8F4942F441BC7AD37594DF4336AA.tmp' to '../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset'
+[2017.11.01-11.33.32:586][643]LogSavePackage: Display: Finished SavePackage ../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset
+[2017.11.01-11.33.45:963][161]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MultiGM" FILE="../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset" SILENT=true
+[2017.11.01-11.33.46:182][161]LogSavePackage: Save=208.70ms
+[2017.11.01-11.33.46:182][161]LogSavePackage: Moving '../../../../../dev/Estrellis/ProteusTemplate-master/Saved/MultiGMB234176545FF0250D0654F8C84C06B9D.tmp' to '../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset'
+[2017.11.01-11.33.46:184][161]LogSavePackage: Display: Finished SavePackage ../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset
+[2017.11.01-11.33.46:669][212]BlueprintLog: New page: Compile MultiGM
+[2017.11.01-11.33.49:213][416]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.01-11.33.49:239][416]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.01-11.33.49:240][416]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.01-11.33.49:241][416]PIE: New page: PIE session: MainMenu (2/11/2017 1:33:49 pm)
+[2017.11.01-11.33.49:242][416]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_1_MainMenu
+[2017.11.01-11.33.49:252][416]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010449s)
+[2017.11.01-11.33.49:253][416]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.01-11.33.49:254][416]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2017.11.01-11.33.49:254][416]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_1_MainMenu.MainMenu (0.012083s)
+[2017.11.01-11.33.49:320][416]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.01-11.33.49:333][416]LogInit: FAudioDevice initialized.
+[2017.11.01-11.33.49:376][416]LogLoad: Game class is 'MainMenuGM_C'
+[2017.11.01-11.33.49:380][416]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.02-00.33.49
+[2017.11.01-11.33.49:381][416]LogWorld: Bringing up level for play took: 0.003497
+[2017.11.01-11.33.49:411][416]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.11.01-11.33.49:412][416]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.33.49:412][416]LogBlueprintUserMessages: [MainMenuGM_C_0] Server: VR is disabled
+[2017.11.01-11.33.49:413][416]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.33.49:414][416]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2017.11.01-11.33.49:414][416]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.33.49:414][416]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.11.01-11.33.49:414][416]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.33.49:415][416]LogNet: GameNetDriver IpNetDriver_4 IpNetDriver listening on port 7777
+[2017.11.01-11.33.49:419][416]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu'!
+[2017.11.01-11.33.49:425][416]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_1_MainMenu 0.017
+[2017.11.01-11.33.49:426][416]PIE: New page: PIE session: MainMenu (2/11/2017 1:33:49 pm)
+[2017.11.01-11.33.49:475][416]LogNet: Browse: 127.0.0.1//Game/Proteus_Multi/MainMenu
+[2017.11.01-11.33.49:475][416]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.33.49:475][416]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2017.11.01-11.33.49:476][416]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.11.01-11.33.49:476][416]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.11.01-11.33.49:476][416]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.33.49:476][416]LogNet: Game client on port 7777, rate 500000
+[2017.11.01-11.33.49:481][416]PIE: Play in editor start time for /Game/Proteus_Multi/MainMenu 0.073
+[2017.11.01-11.33.49:493][416]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.01-11.33.49:495][416]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53426
+[2017.11.01-11.33.49:495][416]LogHandshake: SendConnectChallenge. Timestamp: 0.008333, Cookie: 065090194223057076186162064176218250143167147014153175213234
+[2017.11.01-11.33.49:496][416]LogHandshake: SendChallengeResponse. Timestamp: 0.008333, Cookie: 065090194223057076186162064176218250143167147014153175213234
+[2017.11.01-11.33.49:579][417]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53426
+[2017.11.01-11.33.49:579][417]LogHandshake: SendChallengeAck. InCookie: 065090194223057076186162064176218250143167147014153175213234
+[2017.11.01-11.33.49:579][417]LogNet: Server accepting post-challenge connection from: 127.0.0.1:53426
+[2017.11.01-11.33.49:580][417]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.33.49:580][417]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 11/02/17 00:33:49, [UNetConnection] RemoteAddr: 127.0.0.1:53426, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.01-11.33.49:580][417]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:53426, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.01-11.33.49:581][417]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL
+[2017.11.01-11.33.49:600][418]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Proteus_Multi/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.11.01-11.33.49:601][418]LogNet: Remote platform little endian=1
+[2017.11.01-11.33.49:601][418]LogNet: This platform little endian=1
+[2017.11.01-11.33.49:623][419]LogNet: Login request: /Game/Proteus_Multi/MainMenu?Name=DESKTOP-SOJBPKL-3F358E2E45C1CC82264E01A727DD70C2 userId: DESKTOP-SOJBPKL-3F358E2E45C1CC82264E01A727DD70C2
+[2017.11.01-11.33.49:625][419]LogNet: Welcomed by server (Level: /Game/Proteus_Multi/UEDPIE_1_MainMenu, Game: /Game/Proteus_Multi/MainMenuGM.MainMenuGM_C)
+[2017.11.01-11.33.49:625][419]LogLoad: LoadMap: 127.0.0.1//Game/Proteus_Multi/UEDPIE_1_MainMenu?game=/Game/Proteus_Multi/MainMenuGM.MainMenuGM_C
+[2017.11.01-11.33.49:646][419]Cmd: MEM
+[2017.11.01-11.33.49:665][419]LogMemory: Platform Memory Stats for Windows
+[2017.11.01-11.33.49:666][419]LogMemory: Process Physical Memory: 2017.69 MB used, 2017.69 MB peak
+[2017.11.01-11.33.49:666][419]LogMemory: Process Virtual Memory: 3447.92 MB used, 3447.92 MB peak
+[2017.11.01-11.33.49:666][419]LogMemory: Physical Memory: 6899.12 MB used,  9420.67 MB free, 16319.79 MB total
+[2017.11.01-11.33.49:666][419]LogMemory: Virtual Memory: 4430.24 MB used,  9420.67 MB free, 134217728.00 MB total
+[2017.11.01-11.33.49:666][419]LogMemory: 
+[2017.11.01-11.33.49:666][419]Allocator Stats for TBB: (not implemented)
+[2017.11.01-11.33.49:677][419]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.01-11.33.49:677][419]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.33.49:681][419]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.02-00.33.49
+[2017.11.01-11.33.49:682][419]LogWorld: Bringing up level for play took: 0.003437
+[2017.11.01-11.33.49:682][419]LogLoad: Took 0.056997 seconds to LoadMap(/Game/Proteus_Multi/UEDPIE_1_MainMenu)
+[2017.11.01-11.33.49:688][419]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.11.01-11.33.49:709][420]LogNet: Client netspeed is 500000
+[2017.11.01-11.33.49:709][420]LogNet: Join request: /Game/Proteus_Multi/MainMenu?Name=DESKTOP-SOJBPKL-3F358E2E45C1CC82264E01A727DD70C2?SplitscreenCount=1
+[2017.11.01-11.33.49:710][420]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.11.01-11.33.49:710][420]LogBlueprintUserMessages: [MainMenuGM_C_0] Server: VR is disabled
+[2017.11.01-11.33.49:748][420]LogNet: Join succeeded: DESKTOP-SOJBPKL-3F35
+[2017.11.01-11.33.49:751][420]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.33.49:767][421]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.11.01-11.33.49:767][421]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.11.01-11.33.50:848][510]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu'!
+[2017.11.01-11.33.51:653][578]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu'!
+[2017.11.01-11.33.53:721][750]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.33.53:722][750]LogNet: Browse: /Game/Proteus_Multi/MultiMap01?listen
+[2017.11.01-11.33.53:723][750]LogLoad: LoadMap: /Game/Proteus_Multi/MultiMap01?listen
+[2017.11.01-11.33.53:723][750]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2017.11.01-11.33.53:723][750]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2017.11.01-11.33.53:723][750]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:53426, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: MainMenuPC_C_1, Owner: MainMenuPC_C_1
+[2017.11.01-11.33.53:724][750]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:53426, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: MainMenuPC_C_1, Owner: MainMenuPC_C_1, Channels: 10, Time: 2017.11.01-11.33.53
+[2017.11.01-11.33.53:724][750]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:53426, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_4, IsServer: YES, PC: MainMenuPC_C_1, Owner: MainMenuPC_C_1
+[2017.11.01-11.33.53:724][750]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2017.11.01-11.33.53:747][750]Cmd: MEM
+[2017.11.01-11.33.53:765][750]LogMemory: Platform Memory Stats for Windows
+[2017.11.01-11.33.53:766][750]LogMemory: Process Physical Memory: 1994.25 MB used, 2048.14 MB peak
+[2017.11.01-11.33.53:766][750]LogMemory: Process Virtual Memory: 3384.13 MB used, 3509.26 MB peak
+[2017.11.01-11.33.53:766][750]LogMemory: Physical Memory: 6879.14 MB used,  9440.66 MB free, 16319.79 MB total
+[2017.11.01-11.33.53:766][750]LogMemory: Virtual Memory: 4467.87 MB used,  9440.66 MB free, 134217728.00 MB total
+[2017.11.01-11.33.53:766][750]LogMemory: 
+[2017.11.01-11.33.53:766][750]Allocator Stats for TBB: (not implemented)
+[2017.11.01-11.33.53:877][750]LogAIModule: Creating AISystem for world MultiMap01
+[2017.11.01-11.33.53:878][750]LogLoad: Game class is 'MultiGM_C'
+[2017.11.01-11.33.53:878][750]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.33.53:878][750]LogTemp: Display: ParseSettings for IpNetDriver_6
+[2017.11.01-11.33.53:879][750]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.33.53:879][750]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.11.01-11.33.53:879][750]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.33.53:879][750]LogNet: GameNetDriver IpNetDriver_6 IpNetDriver listening on port 7777
+[2017.11.01-11.33.53:888][750]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_1_MultiMap01.MultiMap01 up for play (max tick rate 0) at 2017.11.02-00.33.53
+[2017.11.01-11.33.53:888][750]LogWorld: Bringing up level for play took: 0.007879
+[2017.11.01-11.33.53:889][750]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.11.01-11.33.53:889][750]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'PlayerStarts' of length 0 in '/Game/Proteus_Multi/MultiGM.MultiGM_C'!
+[2017.11.01-11.33.53:891][750]Cmd: vr.bEnableStereo True
+[2017.11.01-11.33.53:891][750]Cmd: r.ScreenPercentage 130.0
+[2017.11.01-11.33.53:891][750]r.ScreenPercentage = "130"
+[2017.11.01-11.33.53:891][750]Cmd: r.ViewDistanceScale 2
+[2017.11.01-11.33.53:891][750]r.ViewDistanceScale = "2"
+[2017.11.01-11.33.53:891][750]Cmd: sg.AntiAliasingQuality 3
+[2017.11.01-11.33.53:892][750]sg.AntiAliasingQuality = "3"
+[2017.11.01-11.33.53:892][750]Cmd: sg.ShadowQuality 3
+[2017.11.01-11.33.53:892][750]sg.ShadowQuality = "3"
+[2017.11.01-11.33.53:892][750]Cmd: r.MaxAnisotropy 8
+[2017.11.01-11.33.53:892][750]r.MaxAnisotropy = "8"
+[2017.11.01-11.33.53:892][750]Cmd: r.Streaming.MipBias 0
+[2017.11.01-11.33.53:892][750]r.Streaming.MipBias = "0"
+[2017.11.01-11.33.53:892][750]Cmd: r.SeparateTranslucency 0
+[2017.11.01-11.33.53:892][750]r.SeparateTranslucency = "0"
+[2017.11.01-11.33.53:892][750]Cmd: r.BloomQuality 0
+[2017.11.01-11.33.53:892][750]r.BloomQuality = "0"
+[2017.11.01-11.33.53:892][750]Cmd: EnableAllScreenMessages
+[2017.11.01-11.33.53:892][750]LogEngine: Onscreen warngins/messages are now ENABLED
+[2017.11.01-11.33.53:893][750]Cmd: r.setres 1920x1080
+[2017.11.01-11.33.53:893][750]r.SetRes = "1920x1080"
+[2017.11.01-11.33.53:948][750]Cmd: r.streaming.poolsize 3000
+[2017.11.01-11.33.53:948][750]r.Streaming.PoolSize = "3000"
+[2017.11.01-11.33.53:949][750]LogLoad: Took 0.226602 seconds to LoadMap(/Game/Proteus_Multi/MultiMap01)
+[2017.11.01-11.33.53:950][750]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.11.01-11.33.53:950][750]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.11.01-11.33.53:950][750]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2017.11.01-11.33.53:951][750]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: MainMenuPC_C_0, Owner: MainMenuPC_C_0, Channels: 10, Time: 2017.11.01-11.33.53
+[2017.11.01-11.33.53:952][750]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: MainMenuPC_C_0, Owner: MainMenuPC_C_0
+[2017.11.01-11.33.53:952][750]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.11.01-11.33.53:952][750]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.11.01-11.33.53:953][750]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2017.11.01-11.33.53:973][751]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53426
+[2017.11.01-11.33.53:973][751]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:53426
+[2017.11.01-11.33.53:974][751]LogNet: Browse: /Game/Proteus_Multi/MainMenu?closed
+[2017.11.01-11.33.53:974][751]LogNet: Failed; returning to Entry
+[2017.11.01-11.33.53:979][751]LogLoad: LoadMap: /Game/Proteus_Multi/MainMenu?closed
+[2017.11.01-11.33.53:979][751]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2017.11.01-11.33.53:979][751]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2017.11.01-11.33.53:979][751]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2017.11.01-11.33.54:000][751]Cmd: MEM
+[2017.11.01-11.33.54:018][751]LogMemory: Platform Memory Stats for Windows
+[2017.11.01-11.33.54:018][751]LogMemory: Process Physical Memory: 1996.73 MB used, 2048.14 MB peak
+[2017.11.01-11.33.54:018][751]LogMemory: Process Virtual Memory: 3620.88 MB used, 3620.88 MB peak
+[2017.11.01-11.33.54:018][751]LogMemory: Physical Memory: 6880.50 MB used,  9439.30 MB free, 16319.79 MB total
+[2017.11.01-11.33.54:018][751]LogMemory: Virtual Memory: 4599.25 MB used,  9439.30 MB free, 134217728.00 MB total
+[2017.11.01-11.33.54:019][751]LogMemory: 
+[2017.11.01-11.33.54:019][751]Allocator Stats for TBB: (not implemented)
+[2017.11.01-11.33.54:019][751]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_2_MainMenu
+[2017.11.01-11.33.54:029][751]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010466s)
+[2017.11.01-11.33.54:030][751]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.01-11.33.54:030][751]LogPlayLevel: PIE: World Init took: (0.000716s)
+[2017.11.01-11.33.54:030][751]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_2_MainMenu.MainMenu (0.011665s)
+[2017.11.01-11.33.54:030][751]LogLoad: Game class is 'MainMenuGM_C'
+[2017.11.01-11.33.54:034][751]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.02-00.33.54
+[2017.11.01-11.33.54:035][751]LogWorld: Bringing up level for play took: 0.003119
+[2017.11.01-11.33.54:036][751]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.33.54:036][751]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.11.01-11.33.54:041][751]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu'!
+[2017.11.01-11.33.54:042][751]LogLoad: Took 0.063196 seconds to LoadMap(/Game/Proteus_Multi/UEDPIE_2_MainMenu)
+[2017.11.01-11.33.54:061][751]PIE: Warning: The widget 'OptionsMenu_C' was already added to the screen.
+[2017.11.01-11.33.58:711][ 82]LogScript: Warning: Accessed None trying to read property VRErrorDialog
+	ErrorDialog_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_3.ErrorDialog_C_3
+	Function /Game/Proteus_Multi/UI/Widgets/ErrorDialog.ErrorDialog_C:ExecuteUbergraph_ErrorDialog:002D
+[2017.11.01-11.33.58:712][ 82]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property VRErrorDialog from function: 'ExecuteUbergraph_ErrorDialog' from node: DestroyActor in graph: EventGraph in object: ErrorDialog with description: Accessed None trying to read property VRErrorDialog
+[2017.11.01-11.33.58:712][ 82]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2017.11.01-11.33.59:335][134]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu'!
+[2017.11.01-11.34.00:023][192]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/Steam_LAN_Menu.Steam_LAN_Menu_C:ExecuteUbergraph_Steam_LAN_Menu'!
+[2017.11.01-11.34.07:360][792]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.34.07:362][792]LogNet: Browse: 192.168.1.66//Game/Proteus_Multi/MainMenu
+[2017.11.01-11.34.07:363][792]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.34.07:363][792]LogTemp: Display: ParseSettings for IpNetDriver_7
+[2017.11.01-11.34.07:363][792]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.11.01-11.34.07:363][792]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.11.01-11.34.07:364][792]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.34.07:364][792]LogNet: Game client on port 7777, rate 500000
+[2017.11.01-11.34.07:376][793]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.66:58741
+[2017.11.01-11.34.07:376][793]LogHandshake: SendConnectChallenge. Timestamp: 13.668028, Cookie: 062250161057095048118132176230125182185178220101170150105068
+[2017.11.01-11.34.07:377][793]LogHandshake: SendChallengeResponse. Timestamp: 13.668028, Cookie: 062250161057095048118132176230125182185178220101170150105068
+[2017.11.01-11.34.07:389][794]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.66:58741
+[2017.11.01-11.34.07:389][794]LogHandshake: SendChallengeAck. InCookie: 062250161057095048118132176230125182185178220101170150105068
+[2017.11.01-11.34.07:389][794]LogNet: Server accepting post-challenge connection from: 192.168.1.66:58741
+[2017.11.01-11.34.07:390][794]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.34.07:390][794]LogNet: NotifyAcceptedConnection: Name: MultiMap01, TimeStamp: 11/02/17 00:34:07, [UNetConnection] RemoteAddr: 192.168.1.66:58741, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.01-11.34.07:390][794]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.1.66:58741, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.01-11.34.07:391][794]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.1.66:7777, Name: IpConnection_6, Driver: PendingNetDriver IpNetDriver_7, IsServer: NO, PC: NULL, Owner: NULL
+[2017.11.01-11.34.07:404][795]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Proteus_Multi/UEDPIE_1_MultiMap01.MultiMap01: Accepted
+[2017.11.01-11.34.07:404][795]LogNet: Remote platform little endian=1
+[2017.11.01-11.34.07:404][795]LogNet: This platform little endian=1
+[2017.11.01-11.34.07:417][796]LogNet: Login request: /Game/Proteus_Multi/MainMenu?Name=DESKTOP-SOJBPKL-3F358E2E45C1CC82264E01A727DD70C2 userId: DESKTOP-SOJBPKL-3F358E2E45C1CC82264E01A727DD70C2
+[2017.11.01-11.34.07:419][796]LogNet: Welcomed by server (Level: /Game/Proteus_Multi/UEDPIE_1_MultiMap01, Game: /Game/Proteus_Multi/MultiGM.MultiGM_C)
+[2017.11.01-11.34.07:419][796]LogLoad: LoadMap: 192.168.1.66//Game/Proteus_Multi/UEDPIE_1_MultiMap01?game=/Game/Proteus_Multi/MultiGM.MultiGM_C
+[2017.11.01-11.34.07:441][796]Cmd: MEM
+[2017.11.01-11.34.07:460][796]LogMemory: Platform Memory Stats for Windows
+[2017.11.01-11.34.07:460][796]LogMemory: Process Physical Memory: 1965.69 MB used, 2048.14 MB peak
+[2017.11.01-11.34.07:460][796]LogMemory: Process Virtual Memory: 3345.70 MB used, 3648.94 MB peak
+[2017.11.01-11.34.07:460][796]LogMemory: Physical Memory: 6737.02 MB used,  9582.77 MB free, 16319.79 MB total
+[2017.11.01-11.34.07:460][796]LogMemory: Virtual Memory: 4460.25 MB used,  9582.77 MB free, 134217728.00 MB total
+[2017.11.01-11.34.07:460][796]LogMemory: 
+[2017.11.01-11.34.07:460][796]Allocator Stats for TBB: (not implemented)
+[2017.11.01-11.34.08:014][796]LogAIModule: Creating AISystem for world MultiMap01
+[2017.11.01-11.34.08:014][796]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.34.08:023][796]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_2_MultiMap01.MultiMap01 up for play (max tick rate 0) at 2017.11.02-00.34.08
+[2017.11.01-11.34.08:023][796]LogWorld: Bringing up level for play took: 0.007721
+[2017.11.01-11.34.08:027][796]LogLoad: Took 0.607256 seconds to LoadMap(/Game/Proteus_Multi/UEDPIE_1_MultiMap01)
+[2017.11.01-11.34.08:047][797]LogNet: Client netspeed is 500000
+[2017.11.01-11.34.08:047][797]LogNet: Join request: /Game/Proteus_Multi/MainMenu?Name=DESKTOP-SOJBPKL-3F358E2E45C1CC82264E01A727DD70C2?SplitscreenCount=1
+[2017.11.01-11.34.08:048][797]LogNet: Join succeeded: DESKTOP-SOJBPKL-3F35
+[2017.11.01-11.34.08:051][797]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.11.01-11.34.08:053][797]Cmd: vr.bEnableStereo True
+[2017.11.01-11.34.08:054][797]Cmd: r.ScreenPercentage 130.0
+[2017.11.01-11.34.08:054][797]r.ScreenPercentage = "130"
+[2017.11.01-11.34.08:054][797]Cmd: r.ViewDistanceScale 2
+[2017.11.01-11.34.08:054][797]r.ViewDistanceScale = "2"
+[2017.11.01-11.34.08:054][797]Cmd: sg.AntiAliasingQuality 3
+[2017.11.01-11.34.08:054][797]sg.AntiAliasingQuality = "3"
+[2017.11.01-11.34.08:054][797]Cmd: sg.ShadowQuality 3
+[2017.11.01-11.34.08:054][797]sg.ShadowQuality = "3"
+[2017.11.01-11.34.08:054][797]Cmd: r.MaxAnisotropy 8
+[2017.11.01-11.34.08:054][797]r.MaxAnisotropy = "8"
+[2017.11.01-11.34.08:054][797]Cmd: r.Streaming.MipBias 0
+[2017.11.01-11.34.08:055][797]r.Streaming.MipBias = "0"
+[2017.11.01-11.34.08:055][797]Cmd: r.SeparateTranslucency 0
+[2017.11.01-11.34.08:055][797]r.SeparateTranslucency = "0"
+[2017.11.01-11.34.08:055][797]Cmd: r.BloomQuality 0
+[2017.11.01-11.34.08:055][797]r.BloomQuality = "0"
+[2017.11.01-11.34.08:055][797]Cmd: EnableAllScreenMessages
+[2017.11.01-11.34.08:055][797]LogEngine: Onscreen warngins/messages are now ENABLED
+[2017.11.01-11.34.08:055][797]Cmd: r.setres 1920x1080
+[2017.11.01-11.34.08:055][797]r.SetRes = "1920x1080"
+[2017.11.01-11.34.08:055][797]Cmd: r.streaming.poolsize 3000
+[2017.11.01-11.34.08:055][797]r.Streaming.PoolSize = "3000"
+[2017.11.01-11.34.08:341][816]LogVoiceDecode: Display: DecoderVersion: libopus 1.1-beta
+[2017.11.01-11.34.08:566][832]LogVoiceDecode: Display: DecoderVersion: libopus 1.1-beta
+[2017.11.01-11.34.11:695][ 46]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2017.11.01-11.34.12:888][112]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.01-11.34.12:987][112]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.01-11.34.12:988][112]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.01-11.34.12:994][112]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.01-11.34.12:994][112]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.01-11.34.12:994][112]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2017.11.01-11.34.13:046][112]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.01-11.34.13:046][112]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.01-11.34.13:056][112]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.01-11.34.13:056][112]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.01-11.34.13:056][112]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.11.01-11.34.13:057][112]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.01-11.34.13:077][112]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.66:58741, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None
+[2017.11.01-11.34.13:077][112]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.66:58741, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.11.01-11.34.13
+[2017.11.01-11.34.13:077][112]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.66:58741, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_6, IsServer: YES, PC: None, Owner: None
+[2017.11.01-11.34.13:078][112]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.66:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2017.11.01-11.34.13:078][112]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.66:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.11.01-11.34.13
+[2017.11.01-11.34.13:078][112]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.66:7777, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_7, IsServer: NO, PC: None, Owner: None
+[2017.11.01-11.34.13:083][112]LogExit: GameNetDriver None shut down
+[2017.11.01-11.34.13:084][112]LogExit: GameNetDriver None shut down
+[2017.11.01-11.34.13:122][113]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2017.11.01-11.34.13:122][113]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.01-11.34.13:123][113]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2017.11.01-11.34.13:123][113]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.01-11.34.14:929][312]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.11.01-11.34.14:950][312]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.01-11.34.14:951][312]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.11.01-11.34.14:952][312]PIE: New page: PIE session: MainMenu (2/11/2017 1:34:14 pm)
+[2017.11.01-11.34.14:953][312]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_1_MainMenu
+[2017.11.01-11.34.14:963][312]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010511s)
+[2017.11.01-11.34.14:964][312]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.01-11.34.14:964][312]LogPlayLevel: PIE: World Init took: (0.000911s)
+[2017.11.01-11.34.14:965][312]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_1_MainMenu.MainMenu (0.011995s)
+[2017.11.01-11.34.14:987][312]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.11.01-11.34.15:000][312]LogInit: FAudioDevice initialized.
+[2017.11.01-11.34.15:046][312]LogLoad: Game class is 'MainMenuGM_C'
+[2017.11.01-11.34.15:051][312]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_1_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.02-00.34.15
+[2017.11.01-11.34.15:051][312]LogWorld: Bringing up level for play took: 0.003609
+[2017.11.01-11.34.15:084][312]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.11.01-11.34.15:084][312]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.34.15:084][312]LogBlueprintUserMessages: [MainMenuGM_C_0] Server: VR is disabled
+[2017.11.01-11.34.15:086][312]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.34.15:086][312]LogTemp: Display: ParseSettings for IpNetDriver_8
+[2017.11.01-11.34.15:086][312]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.34.15:086][312]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.11.01-11.34.15:087][312]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.34.15:087][312]LogNet: GameNetDriver IpNetDriver_8 IpNetDriver listening on port 7777
+[2017.11.01-11.34.15:091][312]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu'!
+[2017.11.01-11.34.15:096][312]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_1_MainMenu -0.312
+[2017.11.01-11.34.15:097][312]PIE: New page: PIE session: MainMenu (2/11/2017 1:34:15 pm)
+[2017.11.01-11.34.15:161][312]LogNet: Browse: 127.0.0.1//Game/Proteus_Multi/MainMenu
+[2017.11.01-11.34.15:162][312]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.34.15:162][312]LogTemp: Display: ParseSettings for IpNetDriver_9
+[2017.11.01-11.34.15:162][312]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.11.01-11.34.15:162][312]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.11.01-11.34.15:163][312]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.34.15:163][312]LogNet: Game client on port 7777, rate 500000
+[2017.11.01-11.34.15:167][312]PIE: Play in editor start time for /Game/Proteus_Multi/MainMenu -0.24
+[2017.11.01-11.34.15:179][312]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.01-11.34.15:181][312]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58742
+[2017.11.01-11.34.15:181][312]LogHandshake: SendConnectChallenge. Timestamp: 0.008346, Cookie: 109098110104075243136046087255197178195079022079222114228213
+[2017.11.01-11.34.15:183][312]LogHandshake: SendChallengeResponse. Timestamp: 0.008346, Cookie: 109098110104075243136046087255197178195079022079222114228213
+[2017.11.01-11.34.15:281][313]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58742
+[2017.11.01-11.34.15:281][313]LogHandshake: SendChallengeAck. InCookie: 109098110104075243136046087255197178195079022079222114228213
+[2017.11.01-11.34.15:281][313]LogNet: Server accepting post-challenge connection from: 127.0.0.1:58742
+[2017.11.01-11.34.15:282][313]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.34.15:282][313]LogNet: NotifyAcceptedConnection: Name: MainMenu, TimeStamp: 11/02/17 00:34:15, [UNetConnection] RemoteAddr: 127.0.0.1:58742, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.01-11.34.15:282][313]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:58742, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.01-11.34.15:284][313]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_8, Driver: PendingNetDriver IpNetDriver_9, IsServer: NO, PC: NULL, Owner: NULL
+[2017.11.01-11.34.15:304][314]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Proteus_Multi/UEDPIE_1_MainMenu.MainMenu: Accepted
+[2017.11.01-11.34.15:305][314]LogNet: Remote platform little endian=1
+[2017.11.01-11.34.15:305][314]LogNet: This platform little endian=1
+[2017.11.01-11.34.15:328][315]LogNet: Login request: /Game/Proteus_Multi/MainMenu?Name=DESKTOP-SOJBPKL-DFE58E2947C97C154B5498B454DF4379 userId: DESKTOP-SOJBPKL-DFE58E2947C97C154B5498B454DF4379
+[2017.11.01-11.34.15:330][315]LogNet: Welcomed by server (Level: /Game/Proteus_Multi/UEDPIE_1_MainMenu, Game: /Game/Proteus_Multi/MainMenuGM.MainMenuGM_C)
+[2017.11.01-11.34.15:332][315]LogLoad: LoadMap: 127.0.0.1//Game/Proteus_Multi/UEDPIE_1_MainMenu?game=/Game/Proteus_Multi/MainMenuGM.MainMenuGM_C
+[2017.11.01-11.34.15:353][315]Cmd: MEM
+[2017.11.01-11.34.15:372][315]LogMemory: Platform Memory Stats for Windows
+[2017.11.01-11.34.15:372][315]LogMemory: Process Physical Memory: 2217.60 MB used, 2217.61 MB peak
+[2017.11.01-11.34.15:372][315]LogMemory: Process Virtual Memory: 3493.20 MB used, 3648.94 MB peak
+[2017.11.01-11.34.15:372][315]LogMemory: Physical Memory: 7015.13 MB used,  9304.67 MB free, 16319.79 MB total
+[2017.11.01-11.34.15:372][315]LogMemory: Virtual Memory: 4531.30 MB used,  9304.67 MB free, 134217728.00 MB total
+[2017.11.01-11.34.15:372][315]LogMemory: 
+[2017.11.01-11.34.15:372][315]Allocator Stats for TBB: (not implemented)
+[2017.11.01-11.34.15:384][315]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.01-11.34.15:385][315]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.34.15:389][315]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.02-00.34.15
+[2017.11.01-11.34.15:389][315]LogWorld: Bringing up level for play took: 0.003522
+[2017.11.01-11.34.15:390][315]LogLoad: Took 0.058550 seconds to LoadMap(/Game/Proteus_Multi/UEDPIE_1_MainMenu)
+[2017.11.01-11.34.15:396][315]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.11.01-11.34.15:420][316]LogNet: Client netspeed is 500000
+[2017.11.01-11.34.15:420][316]LogNet: Join request: /Game/Proteus_Multi/MainMenu?Name=DESKTOP-SOJBPKL-DFE58E2947C97C154B5498B454DF4379?SplitscreenCount=1
+[2017.11.01-11.34.15:420][316]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.11.01-11.34.15:421][316]LogBlueprintUserMessages: [MainMenuGM_C_0] Server: VR is disabled
+[2017.11.01-11.34.15:423][316]LogNet: Join succeeded: DESKTOP-SOJBPKL-DFE5
+[2017.11.01-11.34.15:425][316]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.34.15:444][317]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.11.01-11.34.15:444][317]LogOnline: Warning: OSS: No game present to join for session (Game)
+[2017.11.01-11.34.16:544][396]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu'!
+[2017.11.01-11.34.17:372][458]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu'!
+[2017.11.01-11.34.19:093][585]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.34.19:094][585]LogNet: Browse: /Game/ThirdPersonBP/Maps/VRsizebigger?listen
+[2017.11.01-11.34.19:095][585]LogLoad: LoadMap: /Game/ThirdPersonBP/Maps/VRsizebigger?listen
+[2017.11.01-11.34.19:095][585]LogNet: World NetDriver shutdown IpNetDriver_8 [GameNetDriver]
+[2017.11.01-11.34.19:095][585]LogNet: DestroyNamedNetDriver IpNetDriver_8 [GameNetDriver]
+[2017.11.01-11.34.19:096][585]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:58742, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: MainMenuPC_C_1, Owner: MainMenuPC_C_1
+[2017.11.01-11.34.19:096][585]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:58742, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: MainMenuPC_C_1, Owner: MainMenuPC_C_1, Channels: 10, Time: 2017.11.01-11.34.19
+[2017.11.01-11.34.19:097][585]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:58742, Name: IpConnection_9, Driver: GameNetDriver IpNetDriver_8, IsServer: YES, PC: MainMenuPC_C_1, Owner: MainMenuPC_C_1
+[2017.11.01-11.34.19:097][585]LogExit: GameNetDriver IpNetDriver_8 shut down
+[2017.11.01-11.34.19:120][585]Cmd: MEM
+[2017.11.01-11.34.19:138][585]LogMemory: Platform Memory Stats for Windows
+[2017.11.01-11.34.19:138][585]LogMemory: Process Physical Memory: 2202.36 MB used, 2277.11 MB peak
+[2017.11.01-11.34.19:138][585]LogMemory: Process Virtual Memory: 3435.74 MB used, 3648.94 MB peak
+[2017.11.01-11.34.19:138][585]LogMemory: Physical Memory: 7006.42 MB used,  9313.38 MB free, 16319.79 MB total
+[2017.11.01-11.34.19:138][585]LogMemory: Virtual Memory: 4584.12 MB used,  9313.38 MB free, 134217728.00 MB total
+[2017.11.01-11.34.19:138][585]LogMemory: 
+[2017.11.01-11.34.19:138][585]Allocator Stats for TBB: (not implemented)
+[2017.11.01-11.34.22:224][585]LogAIModule: Creating AISystem for world VRsizebigger
+[2017.11.01-11.34.22:225][585]LogLoad: Game class is 'MultiGM_C'
+[2017.11.01-11.34.22:225][585]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.34.22:225][585]LogTemp: Display: ParseSettings for IpNetDriver_10
+[2017.11.01-11.34.22:225][585]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.34.22:225][585]LogInit: WinSock: Socket queue 131072 / 131072
+[2017.11.01-11.34.22:226][585]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.34.22:226][585]LogNet: GameNetDriver IpNetDriver_10 IpNetDriver listening on port 7777
+[2017.11.01-11.34.22:233][585]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_1_VRsizebigger.VRsizebigger up for play (max tick rate 0) at 2017.11.02-00.34.22
+[2017.11.01-11.34.22:233][585]LogWorld: Bringing up level for play took: 0.006557
+[2017.11.01-11.34.22:234][585]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.11.01-11.34.22:235][585]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'PlayerStarts' of length 0 in '/Game/Proteus_Multi/MultiGM.MultiGM_C'!
+[2017.11.01-11.34.22:236][585]Cmd: vr.bEnableStereo True
+[2017.11.01-11.34.22:237][585]Cmd: r.ScreenPercentage 130.0
+[2017.11.01-11.34.22:237][585]r.ScreenPercentage = "130"
+[2017.11.01-11.34.22:237][585]Cmd: r.ViewDistanceScale 2
+[2017.11.01-11.34.22:237][585]r.ViewDistanceScale = "2"
+[2017.11.01-11.34.22:237][585]Cmd: sg.AntiAliasingQuality 3
+[2017.11.01-11.34.22:237][585]sg.AntiAliasingQuality = "3"
+[2017.11.01-11.34.22:237][585]Cmd: sg.ShadowQuality 3
+[2017.11.01-11.34.22:237][585]sg.ShadowQuality = "3"
+[2017.11.01-11.34.22:237][585]Cmd: r.MaxAnisotropy 8
+[2017.11.01-11.34.22:238][585]r.MaxAnisotropy = "8"
+[2017.11.01-11.34.22:238][585]Cmd: r.Streaming.MipBias 0
+[2017.11.01-11.34.22:238][585]r.Streaming.MipBias = "0"
+[2017.11.01-11.34.22:238][585]Cmd: r.SeparateTranslucency 0
+[2017.11.01-11.34.22:238][585]r.SeparateTranslucency = "0"
+[2017.11.01-11.34.22:238][585]Cmd: r.BloomQuality 0
+[2017.11.01-11.34.22:238][585]r.BloomQuality = "0"
+[2017.11.01-11.34.22:238][585]Cmd: EnableAllScreenMessages
+[2017.11.01-11.34.22:238][585]LogEngine: Onscreen warngins/messages are now ENABLED
+[2017.11.01-11.34.22:238][585]Cmd: r.setres 1920x1080
+[2017.11.01-11.34.22:238][585]r.SetRes = "1920x1080"
+[2017.11.01-11.34.22:284][585]Cmd: r.streaming.poolsize 3000
+[2017.11.01-11.34.22:285][585]r.Streaming.PoolSize = "3000"
+[2017.11.01-11.34.22:285][585]LogLoad: Took 3.190170 seconds to LoadMap(/Game/ThirdPersonBP/Maps/VRsizebigger)
+[2017.11.01-11.34.22:287][585]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.11.01-11.34.22:287][585]LogNet: Warning: Network Failure: GameNetDriver[FailureReceived]: Host closed the connection.
+[2017.11.01-11.34.22:287][585]LogNet: NetworkFailure: FailureReceived, Error: 'Host closed the connection.'
+[2017.11.01-11.34.22:288][585]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: MainMenuPC_C_0, Owner: MainMenuPC_C_0, Channels: 10, Time: 2017.11.01-11.34.22
+[2017.11.01-11.34.22:289][585]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:7777, Name: IpConnection_8, Driver: GameNetDriver IpNetDriver_9, IsServer: NO, PC: MainMenuPC_C_0, Owner: MainMenuPC_C_0
+[2017.11.01-11.34.22:289][585]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.11.01-11.34.22:289][585]LogNet: Warning: Network Failure: GameNetDriver[ConnectionLost]: Your connection to the host has been lost.
+[2017.11.01-11.34.22:290][585]LogNet: NetworkFailure: ConnectionLost, Error: 'Your connection to the host has been lost.'
+[2017.11.01-11.34.22:323][586]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58742
+[2017.11.01-11.34.22:324][586]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:58742
+[2017.11.01-11.34.22:324][586]LogNet: Browse: /Game/Proteus_Multi/MainMenu?closed
+[2017.11.01-11.34.22:325][586]LogNet: Failed; returning to Entry
+[2017.11.01-11.34.22:334][586]LogLoad: LoadMap: /Game/Proteus_Multi/MainMenu?closed
+[2017.11.01-11.34.22:334][586]LogNet: World NetDriver shutdown IpNetDriver_9 [GameNetDriver]
+[2017.11.01-11.34.22:334][586]LogNet: DestroyNamedNetDriver IpNetDriver_9 [GameNetDriver]
+[2017.11.01-11.34.22:334][586]LogExit: GameNetDriver IpNetDriver_9 shut down
+[2017.11.01-11.34.22:359][586]Cmd: MEM
+[2017.11.01-11.34.22:379][586]LogMemory: Platform Memory Stats for Windows
+[2017.11.01-11.34.22:379][586]LogMemory: Process Physical Memory: 2233.75 MB used, 2277.11 MB peak
+[2017.11.01-11.34.22:379][586]LogMemory: Process Virtual Memory: 3777.00 MB used, 3777.00 MB peak
+[2017.11.01-11.34.22:379][586]LogMemory: Physical Memory: 7065.55 MB used,  9254.25 MB free, 16319.79 MB total
+[2017.11.01-11.34.22:379][586]LogMemory: Virtual Memory: 4792.68 MB used,  9254.25 MB free, 134217728.00 MB total
+[2017.11.01-11.34.22:379][586]LogMemory: 
+[2017.11.01-11.34.22:379][586]Allocator Stats for TBB: (not implemented)
+[2017.11.01-11.34.22:379][586]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_2_MainMenu
+[2017.11.01-11.34.22:390][586]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010639s)
+[2017.11.01-11.34.22:391][586]LogAIModule: Creating AISystem for world MainMenu
+[2017.11.01-11.34.22:391][586]LogPlayLevel: PIE: World Init took: (0.000986s)
+[2017.11.01-11.34.22:392][586]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_2_MainMenu.MainMenu (0.012291s)
+[2017.11.01-11.34.22:392][586]LogLoad: Game class is 'MainMenuGM_C'
+[2017.11.01-11.34.22:396][586]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_2_MainMenu.MainMenu up for play (max tick rate 0) at 2017.11.02-00.34.22
+[2017.11.01-11.34.22:396][586]LogWorld: Bringing up level for play took: 0.003620
+[2017.11.01-11.34.22:397][586]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.34.22:398][586]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.11.01-11.34.22:403][586]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu'!
+[2017.11.01-11.34.22:403][586]LogLoad: Took 0.070103 seconds to LoadMap(/Game/Proteus_Multi/UEDPIE_2_MainMenu)
+[2017.11.01-11.34.22:428][586]PIE: Warning: The widget 'OptionsMenu_C' was already added to the screen.
+[2017.11.01-11.34.23:353][650]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu'!
+[2017.11.01-11.34.24:199][712]LogScriptCore: Warning: Script Msg: Attempted to access index 0 from array 'CallFunc_GetAllActorsOfClass_OutActors' of length 0 in '/Game/Proteus_Multi/UI/Widgets/Steam_LAN_Menu.Steam_LAN_Menu_C:ExecuteUbergraph_Steam_LAN_Menu'!
+[2017.11.01-11.34.26:908][897]LogScript: Warning: Accessed None trying to read property VRErrorDialog
+	ErrorDialog_C /Engine/Transient.UnrealEdEngine_0:GameInfoInstance_C_5.ErrorDialog_C_5
+	Function /Game/Proteus_Multi/UI/Widgets/ErrorDialog.ErrorDialog_C:ExecuteUbergraph_ErrorDialog:002D
+[2017.11.01-11.34.26:909][897]PIE: Error: Blueprint Runtime Error: Accessed None trying to read property VRErrorDialog from function: 'ExecuteUbergraph_ErrorDialog' from node: DestroyActor in graph: EventGraph in object: ErrorDialog with description: Accessed None trying to read property VRErrorDialog
+[2017.11.01-11.34.26:909][897]LogOnline: Warning: OSS: Can't destroy a null online session (Game)
+[2017.11.01-11.34.31:321][219]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.11.01-11.34.31:322][219]LogNet: Browse: 192.168.1.66//Game/Proteus_Multi/MainMenu
+[2017.11.01-11.34.31:322][219]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.34.31:323][219]LogTemp: Display: ParseSettings for IpNetDriver_11
+[2017.11.01-11.34.31:323][219]LogTemp: Display: ParseSettings for PendingNetDriver
+[2017.11.01-11.34.31:323][219]LogInit: WinSock: Socket queue 32768 / 32768
+[2017.11.01-11.34.31:323][219]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.34.31:324][219]LogNet: Game client on port 7777, rate 500000
+[2017.11.01-11.34.31:335][220]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.66:51637
+[2017.11.01-11.34.31:336][220]LogHandshake: SendConnectChallenge. Timestamp: 12.256742, Cookie: 011030226032074094098094157197183164087180164070175019145220
+[2017.11.01-11.34.31:337][220]LogHandshake: SendChallengeResponse. Timestamp: 12.256742, Cookie: 011030226032074094098094157197183164087180164070175019145220
+[2017.11.01-11.34.31:348][221]LogNet: NotifyAcceptingConnection accepted from: 192.168.1.66:51637
+[2017.11.01-11.34.31:348][221]LogHandshake: SendChallengeAck. InCookie: 011030226032074094098094157197183164087180164070175019145220
+[2017.11.01-11.34.31:349][221]LogNet: Server accepting post-challenge connection from: 192.168.1.66:51637
+[2017.11.01-11.34.31:349][221]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2017.11.01-11.34.31:349][221]LogNet: NotifyAcceptedConnection: Name: VRsizebigger, TimeStamp: 11/02/17 00:34:31, [UNetConnection] RemoteAddr: 192.168.1.66:51637, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.01-11.34.31:349][221]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 192.168.1.66:51637, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: NULL, Owner: NULL
+[2017.11.01-11.34.31:350][221]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 192.168.1.66:7777, Name: IpConnection_10, Driver: PendingNetDriver IpNetDriver_11, IsServer: NO, PC: NULL, Owner: NULL
+[2017.11.01-11.34.31:363][222]LogNet: NotifyAcceptingChannel Control 0 server World /Game/ThirdPersonBP/Maps/UEDPIE_1_VRsizebigger.VRsizebigger: Accepted
+[2017.11.01-11.34.31:363][222]LogNet: Remote platform little endian=1
+[2017.11.01-11.34.31:363][222]LogNet: This platform little endian=1
+[2017.11.01-11.34.31:375][223]LogNet: Login request: /Game/Proteus_Multi/MainMenu?Name=DESKTOP-SOJBPKL-DFE58E2947C97C154B5498B454DF4379 userId: DESKTOP-SOJBPKL-DFE58E2947C97C154B5498B454DF4379
+[2017.11.01-11.34.31:377][223]LogNet: Welcomed by server (Level: /Game/ThirdPersonBP/Maps/UEDPIE_1_VRsizebigger, Game: /Game/Proteus_Multi/MultiGM.MultiGM_C)
+[2017.11.01-11.34.31:378][223]LogLoad: LoadMap: 192.168.1.66//Game/ThirdPersonBP/Maps/UEDPIE_1_VRsizebigger?game=/Game/Proteus_Multi/MultiGM.MultiGM_C
+[2017.11.01-11.34.31:401][223]Cmd: MEM
+[2017.11.01-11.34.31:420][223]LogMemory: Platform Memory Stats for Windows
+[2017.11.01-11.34.31:420][223]LogMemory: Process Physical Memory: 2095.52 MB used, 2277.11 MB peak
+[2017.11.01-11.34.31:420][223]LogMemory: Process Virtual Memory: 3530.13 MB used, 3835.21 MB peak
+[2017.11.01-11.34.31:420][223]LogMemory: Physical Memory: 6813.10 MB used,  9506.69 MB free, 16319.79 MB total
+[2017.11.01-11.34.31:421][223]LogMemory: Virtual Memory: 4662.75 MB used,  9506.69 MB free, 134217728.00 MB total
+[2017.11.01-11.34.31:421][223]LogMemory: 
+[2017.11.01-11.34.31:421][223]Allocator Stats for TBB: (not implemented)
+[2017.11.01-11.34.31:991][223]LogAIModule: Creating AISystem for world VRsizebigger
+[2017.11.01-11.34.31:991][223]LogTemp: Display: ParseSettings for GameNetDriver
+[2017.11.01-11.34.31:998][223]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_2_VRsizebigger.VRsizebigger up for play (max tick rate 0) at 2017.11.02-00.34.31
+[2017.11.01-11.34.31:999][223]LogWorld: Bringing up level for play took: 0.006467
+[2017.11.01-11.34.32:002][223]LogLoad: Took 0.624489 seconds to LoadMap(/Game/ThirdPersonBP/Maps/UEDPIE_1_VRsizebigger)
+[2017.11.01-11.34.32:023][224]LogNet: Client netspeed is 500000
+[2017.11.01-11.34.32:024][224]LogNet: Join request: /Game/Proteus_Multi/MainMenu?Name=DESKTOP-SOJBPKL-DFE58E2947C97C154B5498B454DF4379?SplitscreenCount=1
+[2017.11.01-11.34.32:025][224]LogNet: Join succeeded: DESKTOP-SOJBPKL-DFE5
+[2017.11.01-11.34.32:027][224]LogSpawn: Warning: SpawnActor failed because no class was specified
+[2017.11.01-11.34.32:029][224]Cmd: vr.bEnableStereo True
+[2017.11.01-11.34.32:030][224]Cmd: r.ScreenPercentage 130.0
+[2017.11.01-11.34.32:030][224]r.ScreenPercentage = "130"
+[2017.11.01-11.34.32:030][224]Cmd: r.ViewDistanceScale 2
+[2017.11.01-11.34.32:030][224]r.ViewDistanceScale = "2"
+[2017.11.01-11.34.32:030][224]Cmd: sg.AntiAliasingQuality 3
+[2017.11.01-11.34.32:030][224]sg.AntiAliasingQuality = "3"
+[2017.11.01-11.34.32:030][224]Cmd: sg.ShadowQuality 3
+[2017.11.01-11.34.32:030][224]sg.ShadowQuality = "3"
+[2017.11.01-11.34.32:031][224]Cmd: r.MaxAnisotropy 8
+[2017.11.01-11.34.32:031][224]r.MaxAnisotropy = "8"
+[2017.11.01-11.34.32:031][224]Cmd: r.Streaming.MipBias 0
+[2017.11.01-11.34.32:031][224]r.Streaming.MipBias = "0"
+[2017.11.01-11.34.32:031][224]Cmd: r.SeparateTranslucency 0
+[2017.11.01-11.34.32:031][224]r.SeparateTranslucency = "0"
+[2017.11.01-11.34.32:031][224]Cmd: r.BloomQuality 0
+[2017.11.01-11.34.32:031][224]r.BloomQuality = "0"
+[2017.11.01-11.34.32:031][224]Cmd: EnableAllScreenMessages
+[2017.11.01-11.34.32:031][224]LogEngine: Onscreen warngins/messages are now ENABLED
+[2017.11.01-11.34.32:031][224]Cmd: r.setres 1920x1080
+[2017.11.01-11.34.32:032][224]r.SetRes = "1920x1080"
+[2017.11.01-11.34.32:032][224]Cmd: r.streaming.poolsize 3000
+[2017.11.01-11.34.32:032][224]r.Streaming.PoolSize = "3000"
+[2017.11.01-11.34.35:628][480]LogPawn: Error: DisableInput can only be specified on a Pawn for its Controller
+[2017.11.01-11.34.37:490][620]LogPawn: Error: EnableInput can only be specified on a Pawn for its Controller
+[2017.11.01-11.34.53:956][962]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.01-11.34.54:010][962]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.01-11.34.54:010][962]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.01-11.34.54:019][962]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.01-11.34.54:019][962]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.01-11.34.54:019][962]LogOnline: Warning: OSS: No game present to leave for session (Game)
+[2017.11.01-11.34.54:108][962]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.01-11.34.54:109][962]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.01-11.34.54:121][962]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.01-11.34.54:121][962]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.01-11.34.54:121][962]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.11.01-11.34.54:122][962]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.11.01-11.34.54:141][962]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.66:51637, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None
+[2017.11.01-11.34.54:141][962]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.66:51637, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None, Channels: 2, Time: 2017.11.01-11.34.54
+[2017.11.01-11.34.54:142][962]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.66:51637, Name: IpConnection_11, Driver: GameNetDriver IpNetDriver_10, IsServer: YES, PC: None, Owner: None
+[2017.11.01-11.34.54:142][962]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.66:7777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None
+[2017.11.01-11.34.54:142][962]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 192.168.1.66:7777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None, Channels: 2, Time: 2017.11.01-11.34.54
+[2017.11.01-11.34.54:142][962]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 192.168.1.66:7777, Name: IpConnection_10, Driver: GameNetDriver IpNetDriver_11, IsServer: NO, PC: None, Owner: None
+[2017.11.01-11.34.54:146][962]LogExit: GameNetDriver None shut down
+[2017.11.01-11.34.54:146][962]LogExit: GameNetDriver None shut down
+[2017.11.01-11.34.54:176][963]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2017.11.01-11.34.54:176][963]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.01-11.34.54:176][963]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2017.11.01-11.34.54:176][963]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.01-11.34.55:073][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MultiGM" FILE="../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset" SILENT=true
+[2017.11.01-11.34.55:271][ 49]LogSavePackage: Save=189.11ms
+[2017.11.01-11.34.55:271][ 49]LogSavePackage: Moving '../../../../../dev/Estrellis/ProteusTemplate-master/Saved/MultiGMC19EBDE84225F0CC65427CB643838AF1.tmp' to '../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset'
+[2017.11.01-11.34.55:276][ 49]LogSavePackage: Display: Finished SavePackage ../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset
+[2017.11.01-11.34.55:406][ 55]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MultiGM" FILE="../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset" SILENT=true
+[2017.11.01-11.34.55:605][ 55]LogSavePackage: Save=188.16ms
+[2017.11.01-11.34.55:606][ 55]LogSavePackage: Moving '../../../../../dev/Estrellis/ProteusTemplate-master/Saved/MultiGMA404439F446B7DC95C86AB82A5B91D93.tmp' to '../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset'
+[2017.11.01-11.34.55:607][ 55]LogSavePackage: Display: Finished SavePackage ../../../../../dev/Estrellis/ProteusTemplate-master/Content/Proteus_Multi/MultiGM.uasset
+[2017.11.01-11.34.57:373][164]Cmd: QUIT_EDITOR
+[2017.11.01-11.34.57:638][164]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.11.01-11.34.57:653][164]LogExit: Preparing to exit.
+[2017.11.01-11.34.58:603][164]LogDirectoryWatcher: A directory notification for 'D:/dev/Estrellis/ProteusTemplate-master/Content/' was aborted.
+[2017.11.01-11.34.58:695][164]LogExit: Editor shut down
+[2017.11.01-11.34.58:698][164]LogExit: Transaction tracking system shut down
+[2017.11.01-11.34.58:829][164]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.11.01-11.34.58:829][164]LogDirectoryWatcher: A directory notification for '../../../../../dev/Estrellis/ProteusTemplate-master/Content/' was aborted.
+[2017.11.01-11.34.58:829][164]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.11.01-11.34.58:829][164]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Marketplace/RunebergVRPlugin/Content/' was aborted.
+[2017.11.01-11.34.58:829][164]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.11.01-11.34.58:829][164]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.11.01-11.34.58:984][164]LogExit: Object subsystem successfully closed.
+[2017.11.01-11.34.59:023][164]LogD3D11RHI: Shutdown
+[2017.11.01-11.34.59:023][164]LogD3D11RHI: CleanupD3DDevice
+[2017.11.01-11.34.59:137][164]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.11.01-11.34.59:174][164]LogModuleManager: Shutting down and abandoning module BlueprintGraph (548)
+[2017.11.01-11.34.59:174][164]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (546)
+[2017.11.01-11.34.59:176][164]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (542)
+[2017.11.01-11.34.59:191][164]LogModuleManager: Shutting down and abandoning module Voice (540)
+[2017.11.01-11.34.59:192][164]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (538)
+[2017.11.01-11.34.59:192][164]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (536)
+[2017.11.01-11.34.59:192][164]LogModuleManager: Shutting down and abandoning module SceneOutliner (534)
+[2017.11.01-11.34.59:207][164]LogModuleManager: Shutting down and abandoning module AddContentDialog (532)
+[2017.11.01-11.34.59:224][164]LogDirectoryWatcher: A directory notification for 'D:/Unreal Engine/UE_4.17/FeaturePacks/' was aborted.
+[2017.11.01-11.34.59:226][164]LogModuleManager: Shutting down and abandoning module WidgetCarousel (531)
+[2017.11.01-11.34.59:226][164]LogModuleManager: Shutting down and abandoning module EditorWidgets (528)
+[2017.11.01-11.34.59:226][164]LogModuleManager: Shutting down and abandoning module CollectionManager (526)
+[2017.11.01-11.34.59:226][164]LogDirectoryWatcher: A directory notification for 'D:/dev/Estrellis/ProteusTemplate-master/Content/Collections/' was aborted.
+[2017.11.01-11.34.59:226][164]LogDirectoryWatcher: A directory notification for 'D:/dev/Estrellis/ProteusTemplate-master/Content/Developers/yche5/Collections/' was aborted.
+[2017.11.01-11.34.59:226][164]LogDirectoryWatcher: A directory notification for 'D:/dev/Estrellis/ProteusTemplate-master/Saved/Collections/' was aborted.
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module StatsViewer (524)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module FoliageEdit (522)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module LandscapeEditor (520)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module MeshPaintMode (518)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (516)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module ActorPickerMode (514)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module GeometryMode (512)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module TextureAlignMode (510)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module BspMode (508)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (506)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module HardwareSurvey (504)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (502)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module AutomationWorker (500)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (498)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (496)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module PlacementMode (495)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (492)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (490)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (488)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (486)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (484)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module Media (483)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (480)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module CharacterAI (478)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module AudioCapture (476)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module SequenceRecorder (475)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module SmartSnapping (472)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module SessionServices (470)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module ViewportSnapping (468)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module ViewportInteraction (466)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module ClothPainter (464)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module LogVisualizer (462)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module IntroTutorials (460)
+[2017.11.01-11.34.59:227][164]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (459)
+[2017.11.01-11.34.59:228][164]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (456)
+[2017.11.01-11.34.59:228][164]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (454)
+[2017.11.01-11.34.59:228][164]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (452)
+[2017.11.01-11.34.59:228][164]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (451)
+[2017.11.01-11.34.59:268][164]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (448)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (446)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (444)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module InputBindingEditor (442)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module MergeActors (440)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module SizeMap (438)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module TreeMap (436)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module ReferenceViewer (434)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (432)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module LocalizationService (431)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module HardwareTargeting (428)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (426)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module UndoHistory (424)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module XmlParser (422)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module Blutility (420)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (418)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (417)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (414)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module SettingsEditor (412)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module ProjectLauncher (410)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module SessionFrontend (408)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module ProfilerClient (406)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module DeviceManager (404)
+[2017.11.01-11.34.59:269][164]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (403)
+[2017.11.01-11.34.59:322][164]LogModuleManager: Shutting down and abandoning module AutomationController (400)
+[2017.11.01-11.34.59:322][164]LogModuleManager: Shutting down and abandoning module AutomationWindow (398)
+[2017.11.01-11.34.59:322][164]LogModuleManager: Shutting down and abandoning module Layers (396)
+[2017.11.01-11.34.59:322][164]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (394)
+[2017.11.01-11.34.59:322][164]LogModuleManager: Shutting down and abandoning module DetailCustomizations (392)
+[2017.11.01-11.34.59:322][164]LogModuleManager: Shutting down and abandoning module PackagesDialog (390)
+[2017.11.01-11.34.59:322][164]LogModuleManager: Shutting down and abandoning module Persona (388)
+[2017.11.01-11.34.59:322][164]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (387)
+[2017.11.01-11.34.59:322][164]LogModuleManager: Shutting down and abandoning module AnimGraph (385)
+[2017.11.01-11.34.59:322][164]LogModuleManager: Shutting down and abandoning module Kismet (382)
+[2017.11.01-11.34.59:333][164]LogModuleManager: Shutting down and abandoning module ClassViewer (380)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module Toolbox (378)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module ModuleUI (376)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module MovieSceneTools (374)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module OutputLog (372)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module GammaUI (370)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module Documentation (368)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (366)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module MovieScene (364)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module Niagara (362)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module NiagaraEditor (361)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (358)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module LauncherPlatform (356)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module AnalyticsET (354)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module PortalServices (352)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module PortalRpc (350)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module MessagingRpc (348)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module AIModule (346)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module GameplayDebugger (345)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module AITestSuite (343)
+[2017.11.01-11.34.59:334][164]LogModuleManager: Shutting down and abandoning module ProfilerService (340)
+[2017.11.01-11.34.59:357][164]LogModuleManager: Shutting down and abandoning module TaskGraph (338)
+[2017.11.01-11.34.59:357][164]LogModuleManager: Shutting down and abandoning module SteamVRController (336)
+[2017.11.01-11.34.59:357][164]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (334)
+[2017.11.01-11.34.59:357][164]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (332)
+[2017.11.01-11.34.59:357][164]LogModuleManager: Shutting down and abandoning module OculusInput (330)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (328)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (326)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module CableComponent (324)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (322)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module AndroidPermission (320)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (316)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module RunebergVRPlugin (314)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module HTML5Networking (312)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module AlembicImporter (310)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module AlembicLibrary (309)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module GeometryCache (308)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (307)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (302)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module PluginBrowser (300)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (298)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (296)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module DesktopPlatform (295)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module UObjectPlugin (292)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (290)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (288)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module GitSourceControl (286)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module SourceControl (285)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (282)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (280)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (278)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module Paper2DEditor (276)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module MeshPaint (275)
+[2017.11.01-11.34.59:358][164]LogModuleManager: Shutting down and abandoning module LevelEditor (273)
+[2017.11.01-11.34.59:359][164]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (272)
+[2017.11.01-11.34.59:359][164]LogModuleManager: Shutting down and abandoning module MainFrame (270)
+[2017.11.01-11.34.59:359][164]LogModuleManager: Shutting down and abandoning module HotReload (269)
+[2017.11.01-11.34.59:359][164]LogDirectoryWatcher: A directory notification for 'D:/dev/Estrellis/ProteusTemplate-master/Binaries/Win64' was aborted.
+[2017.11.01-11.34.59:359][164]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (264)
+[2017.11.01-11.34.59:359][164]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (262)
+[2017.11.01-11.34.59:359][164]LogModuleManager: Shutting down and abandoning module PhysXVehicles (260)
+[2017.11.01-11.34.59:360][164]LogModuleManager: Shutting down and abandoning module OculusEditor (258)
+[2017.11.01-11.34.59:360][164]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (256)
+[2017.11.01-11.34.59:360][164]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (254)
+[2017.11.01-11.34.59:360][164]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (252)
+[2017.11.01-11.34.59:360][164]LogModuleManager: Shutting down and abandoning module UdpMessaging (250)
+[2017.11.01-11.34.59:461][164]LogModuleManager: Shutting down and abandoning module TcpMessaging (248)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (246)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (244)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module FacialAnimation (242)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (240)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module GraphEditor (239)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module ContentBrowser (237)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (234)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module Paper2D (232)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (230)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module WmfMedia (228)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module PacketHandler (226)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (224)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (222)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module Overlay (220)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module OverlayEditor (219)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module MediaAssets (216)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module VREditor (214)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module StringTableEditor (212)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (210)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (208)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module FunctionalTesting (206)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (204)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (203)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module UMG (200)
+[2017.11.01-11.34.59:562][164]LogModuleManager: Shutting down and abandoning module UMGEditor (199)
+[2017.11.01-11.34.59:563][164]LogModuleManager: Shutting down and abandoning module Sequencer (198)
+[2017.11.01-11.34.59:563][164]LogModuleManager: Shutting down and abandoning module MessageLog (195)
+[2017.11.01-11.34.59:563][164]LogModuleManager: Shutting down and abandoning module SlateReflector (190)
+[2017.11.01-11.34.59:563][164]LogModuleManager: Shutting down and abandoning module Slate (188)
+[2017.11.01-11.34.59:563][164]LogModuleManager: Shutting down and abandoning module EditorStyle (186)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module MRMesh (184)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (182)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (180)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module XAudio2 (178)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module Networking (176)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module Core (174)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module KismetCompiler (170)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module LevelSequence (168)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module MeshUtilities (166)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (165)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (164)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (163)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (161)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (159)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module MaterialBaking (155)
+[2017.11.01-11.34.59:565][164]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (152)
+[2017.11.01-11.34.59:565][164]LogDirectoryWatcher: A directory notification for 'D:/Unreal Engine/UE_4.17/Templates/TemplateResources/High/Geometry/Content' was aborted.
+[2017.11.01-11.34.59:566][164]LogModuleManager: Shutting down and abandoning module DerivedDataCache (150)
+[2017.11.01-11.34.59:596][164]LogDerivedDataCache: Shutdown
+[2017.11.01-11.34.59:596][164]LogModuleManager: Shutting down and abandoning module TargetPlatform (148)
+[2017.11.01-11.34.59:596][164]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (147)
+[2017.11.01-11.34.59:596][164]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (145)
+[2017.11.01-11.34.59:596][164]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (143)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (141)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (139)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (137)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (135)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (133)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (131)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (129)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module ImageWrapper (128)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (125)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (123)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (121)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (119)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (117)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (115)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (113)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (111)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (109)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module Messaging (107)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (105)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (103)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (93)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (91)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (89)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (87)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module SteamVR (60)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module OculusHMD (58)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (54)
+[2017.11.01-11.34.59:597][164]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (50)
+[2017.11.01-11.34.59:597][164]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.11.01-11.34.59:597][164]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.11.01-11.34.59:598][164]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.11.01-11.34.59:598][164]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.11.01-11.34.59:598][164]LogOnline: Display: Unloading online subsystem: STEAM
+[2017.11.01-11.34.59:639][164]LogOnline: Display: Unloading online subsystem: NULL
+[2017.11.01-11.34.59:639][164]LogOnline: Display: Unloading online subsystem: Oculus
+[2017.11.01-11.34.59:639][164]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2017.11.01-11.34.59:639][164]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2017.11.01-11.34.59:639][164]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.11.01-11.34.59:639][164]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4D2228B2-4BFC-15BA-F901-F380BB98B5E0%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.17.2-3658906%2B%2B%2BUE4%2BRelease-4.17&UserID=688d2740406febc21020a991a8c11272%7Cee95466cd6ab4edebc0b9ee0b4d96911%7C80954f3f-9a4b-4340-b0f4-8f5f8091e357&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.11.01-11.34.59:671][164]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2017.11.01-11.34.59:672][164]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2017.11.01-11.34.59:672][164]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2017.11.01-11.34.59:672][164]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2017.11.01-11.34.59:672][164]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2017.11.01-11.34.59:672][164]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2017.11.01-11.34.59:672][164]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2017.11.01-11.34.59:672][164]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2017.11.01-11.34.59:673][164]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2017.11.01-11.34.59:673][164]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2017.11.01-11.34.59:673][164]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2017.11.01-11.34.59:673][164]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2017.11.01-11.34.59:673][164]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2017.11.01-11.34.59:673][164]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2017.11.01-11.34.59:673][164]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2017.11.01-11.34.59:673][164]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2017.11.01-11.34.59:673][164]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.11.01-11.34.59:673][164]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.11.01-11.34.59:673][164]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.11.01-11.34.59:677][164]LogExit: Exiting.
+[2017.11.01-11.34.59:693][164]Log file closed, 11/02/17 00:34:59

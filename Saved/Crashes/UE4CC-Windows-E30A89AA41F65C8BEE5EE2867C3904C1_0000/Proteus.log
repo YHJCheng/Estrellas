@@ -1,0 +1,1024 @@
+﻿Log file open, 10/07/17 16:23:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Proteus
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-2082626156) SRandInit(-2082626156).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.163841
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemOculus
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.17-CL-3658906
+LogInit: Engine Version: 4.17.2-3658906+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Sep 22 2017 13:47:16
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Unreal Engine/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.10.07-03.23.55:980][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.07-03.23.55:980][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.10.07-03.23.56:016][  0]LogInit: Computer: DESKTOP-SOJBPKL
+[2017.10.07-03.23.56:016][  0]LogInit: User: yche5
+[2017.10.07-03.23.56:016][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.10.07-03.23.56:016][  0]LogInit: High frequency timer resolution =2.531252 MHz
+[2017.10.07-03.23.56:017][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2017.10.07-03.23.56:017][  0]LogMemory: Platform Memory Stats for Windows
+[2017.10.07-03.23.56:017][  0]LogMemory: Process Physical Memory: 280.93 MB used, 280.93 MB peak
+[2017.10.07-03.23.56:017][  0]LogMemory: Process Virtual Memory: 282.68 MB used, 282.68 MB peak
+[2017.10.07-03.23.56:017][  0]LogMemory: Physical Memory: 6441.00 MB used,  9878.79 MB free, 16319.79 MB total
+[2017.10.07-03.23.56:017][  0]LogMemory: Virtual Memory: 680.14 MB used,  9878.79 MB free, 134217728.00 MB total
+[2017.10.07-03.23.56:118][  0]LogInit: Using OS detected language (en-US).
+[2017.10.07-03.23.56:118][  0]LogInit: Using OS detected locale (en-NZ).
+[2017.10.07-03.23.56:121][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.10.07-03.23.56:802][  0]LogD3D11RHI: D3D11 adapters:
+[2017.10.07-03.23.56:859][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2017.10.07-03.23.56:859][  0]LogD3D11RHI:       6084/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.10.07-03.23.56:861][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.10.07-03.23.56:861][  0]LogD3D11RHI:       0/0/8159 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.10.07-03.23.56:861][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.10.07-03.23.56:868][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.10.07-03.23.56:868][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2017.10.07-03.23.56:868][  0]LogWindows: EnumDisplayDevices:
+[2017.10.07-03.23.56:868][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2017.10.07-03.23.56:869][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.10.07-03.23.56:869][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.10.07-03.23.56:869][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2017.10.07-03.23.56:869][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2017.10.07-03.23.56:869][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2017.10.07-03.23.56:869][  0]LogD3D11RHI:   Driver Version: 381.78 (internal:22.21.13.8178, unified:381.78)
+[2017.10.07-03.23.56:869][  0]LogD3D11RHI:      Driver Date: 4-12-2017
+[2017.10.07-03.23.56:869][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.10.07-03.23.56:903][  0]LogD3D11RHI: Async texture creation enabled
+[2017.10.07-03.23.56:915][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.10.07-03.23.56:957][  0]LogShaderCompilers: Guid format shader working directory is 4 characters bigger than the processId version (../../../../../dev/ProteusTemplate-master/Intermediate/Shaders/WorkingDirectory/32104/).
+[2017.10.07-03.23.56:957][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/yche5/AppData/Local/Temp/UnrealShaderWorkingDir/B4EF161E4B7C5C3B1FFA668CAE3E79DD/'.
+[2017.10.07-03.23.56:957][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.10.07-03.23.57:805][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.10.07-03.23.57:842][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.10.07-03.23.57:881][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.10.07-03.23.57:936][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.10.07-03.23.57:976][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.10.07-03.23.58:016][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.10.07-03.23.58:055][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.10.07-03.23.58:096][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.10.07-03.23.58:125][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.10.07-03.23.58:161][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.10.07-03.23.58:196][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.10.07-03.23.58:233][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.10.07-03.23.58:266][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.10.07-03.23.58:301][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.10.07-03.23.58:336][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.10.07-03.23.58:410][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.10.07-03.23.58:410][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.10.07-03.23.58:434][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.10.07-03.23.58:506][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.10.07-03.23.58:529][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.10.07-03.23.58:564][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.10.07-03.23.58:599][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.10.07-03.23.58:634][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.10.07-03.23.58:670][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.10.07-03.23.58:670][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.10.07-03.23.58:980][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.10.07-03.23.59:083][  0]LogDerivedDataCache: Loaded boot cache 0.10s 107MB C:/Users/yche5/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.07-03.23.59:083][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/yche5/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.10.07-03.23.59:084][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../dev/ProteusTemplate-master/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.10.07-03.23.59:084][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.10.07-03.23.59:084][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../dev/ProteusTemplate-master/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.10.07-03.23.59:084][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.10.07-03.23.59:100][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.10.07-03.23.59:112][  0]LogDerivedDataCache: Using Local data cache path C:/Users/yche5/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.10.07-03.23.59:124][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.10.07-03.23.59:124][  0]LogSlate: Using Freetype 2.6.0
+[2017.10.07-03.23.59:125][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.07-03.23.59:125][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.10.07-03.23.59:367][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2017.10.07-03.23.59:465][  0]LogInit: Selected Device Profile: [Windows]
+[2017.10.07-03.23.59:960][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.10.07-03.23.59:990][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.10.07-03.23.59:990][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.10.07-03.23.59:990][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.10.07-03.23.59:990][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.10.07-03.23.59:990][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.10.07-03.23.59:991][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.10.07-03.24.00:479][  0]LogNetVersion: Proteus , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 389468371)
+[2017.10.07-03.24.00:681][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.064972 seconds
+[2017.10.07-03.24.00:686][  0]LogUObjectArray: 35832 objects as part of root set at end of initial load.
+[2017.10.07-03.24.00:686][  0]LogUObjectAllocator: 7742864 out of 0 bytes used by permanent object pool.
+[2017.10.07-03.24.00:686][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.10.07-03.24.02:754][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.10.07-03.24.02:783][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.10.07-03.24.03:196][  0]LogMaterial: Missing cached shader map for material BaseColor, compiling. 
+[2017.10.07-03.24.03:239][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/BaseColor.BaseColor for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.07-03.24.03:239][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.10.07-03.24.03:260][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.07-03.24.03:273][  0]LogMaterial: Missing cached shader map for material LightingModel, compiling. 
+[2017.10.07-03.24.03:273][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/LightingModel.LightingModel for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.07-03.24.03:273][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.10.07-03.24.03:277][  0]LogMaterial: Missing cached shader map for material MaterialAO, compiling. 
+[2017.10.07-03.24.03:277][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/MaterialAO.MaterialAO for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.07-03.24.03:277][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.10.07-03.24.03:280][  0]LogMaterial: Missing cached shader map for material Metallic, compiling. 
+[2017.10.07-03.24.03:280][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/Metallic.Metallic for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.07-03.24.03:280][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.10.07-03.24.03:283][  0]LogMaterial: Missing cached shader map for material Opacity, compiling. 
+[2017.10.07-03.24.03:283][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/Opacity.Opacity for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.07-03.24.03:283][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.10.07-03.24.03:286][  0]LogMaterial: Missing cached shader map for material Roughness, compiling. 
+[2017.10.07-03.24.03:286][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/Roughness.Roughness for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.07-03.24.03:286][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.10.07-03.24.03:308][  0]LogMaterial: Missing cached shader map for material Specular, compiling. 
+[2017.10.07-03.24.03:308][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/Specular.Specular for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.07-03.24.03:308][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.10.07-03.24.03:311][  0]LogMaterial: Missing cached shader map for material SubsurfaceColor, compiling. 
+[2017.10.07-03.24.03:311][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/SubsurfaceColor.SubsurfaceColor for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.07-03.24.03:311][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.10.07-03.24.03:315][  0]LogMaterial: Missing cached shader map for material WorldNormal, compiling. 
+[2017.10.07-03.24.03:319][  0]LogMaterial: Warning: Failed to compile Material /Engine/BufferVisualization/WorldNormal.WorldNormal for platform PCD3D_SM5, Default Material will be used in game.
+[2017.10.07-03.24.03:319][  0]LogMaterial: Warning: 	(Node SceneTexture) GBuffer scene textures not available with forward shading.
+[2017.10.07-03.24.03:550][  0]SourceControl: Source control is disabled
+[2017.10.07-03.24.03:550][  0]SourceControl: Source control is disabled
+[2017.10.07-03.24.03:579][  0]SourceControl: Source control is disabled
+[2017.10.07-03.24.03:607][  0]SourceControl: Source control is disabled
+[2017.10.07-03.24.03:983][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.10.07-03.24.04:131][  0]LogOcInput: OculusInput pre-init called
+[2017.10.07-03.24.04:307][  0]LogEngine: Initializing Engine...
+[2017.10.07-03.24.04:329][  0]LogHMD: Failed to initialize OpenVR with code 126
+[2017.10.07-03.24.04:574][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.10.07-03.24.04:574][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.10.07-03.24.04:658][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.10.07-03.24.04:662][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-03.24.04:680][  0]LogInit: FAudioDevice initialized.
+[2017.10.07-03.24.04:778][  0]LogDerivedDataCache: Saved boot cache 0.10s 107MB C:/Users/yche5/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.10.07-03.24.04:792][  0]LogInit: Texture streaming: Enabled
+[2017.10.07-03.24.04:862][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.10.07-03.24.05:025][  0]LogInit: Transaction tracking system initialized
+[2017.10.07-03.24.05:216][  0]BlueprintLog: New page: Editor Load
+[2017.10.07-03.24.05:795][  0]LocalizationService: Localization service is disabled
+[2017.10.07-03.24.06:142][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2017.10.07-03.24.06:142][  0]LogLinker: Warning: Can't find file '/Game/ThirdPersonBP/ThirdPersonOverview'
+[2017.10.07-03.24.06:142][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2017.10.07-03.24.06:251][  0]LogConsoleResponse: Display: 
+[2017.10.07-03.24.06:600][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.10.07-03.24.06:600][  0]LogCook: Display: Mobile HDR setting 1
+[2017.10.07-03.24.06:600][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.10.07-03.24.06:745][  0]LogFileCache: Scanning file cache for directory 'D:/dev/ProteusTemplate-master/Content/' took 0.04s
+[2017.10.07-03.24.07:273][  0]SourceControl: Source control is disabled
+[2017.10.07-03.24.07:273][  0]Cmd: MAP LOAD FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenu.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.10.07-03.24.07:274][  0]LightingResults: New page: Lighting Build
+[2017.10.07-03.24.07:298][  0]MapCheck: New page: Map Check
+[2017.10.07-03.24.07:298][  0]LightingResults: New page: Lighting Build
+[2017.10.07-03.24.13:753][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.10.07-03.24.15:402][  0]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.07-03.24.15:636][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.10.07-03.24.15:723][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.10.07-03.24.15:769][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 45.3ms to complete.
+[2017.10.07-03.24.15:769][  0]LogFileHelpers: Loading map 'MainMenu' took 8.495
+[2017.10.07-03.24.16:351][  0]LogCollectionManager: Loaded 0 collections in 0.000979 seconds
+[2017.10.07-03.24.16:502][  0]LogFileCache: Scanning file cache for directory 'D:/dev/ProteusTemplate-master/Saved/Collections/' took 0.01s
+[2017.10.07-03.24.16:502][  0]LogFileCache: Scanning file cache for directory 'D:/dev/ProteusTemplate-master/Content/Developers/yche5/Collections/' took 0.01s
+[2017.10.07-03.24.16:502][  0]LogFileCache: Scanning file cache for directory 'D:/dev/ProteusTemplate-master/Content/Collections/' took 0.01s
+[2017.10.07-03.24.16:502][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2017.10.07-03.24.16:513][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2394 classes and 506 folders.
+[2017.10.07-03.24.16:593][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0008 seconds. Added 0 classes and 0 folders.
+[2017.10.07-03.24.17:362][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.10.07-03.24.17:467][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0006 seconds. Added 1 classes and 2 folders.
+[2017.10.07-03.24.21:004][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.Proteus
+[2017.10.07-03.24.21:004][  0]LogTemp: CWD: D:\Unreal Engine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.07-03.24.21:004][  0]LogTemp: Initial Dir: D:\Unreal Engine\UE_4.17
+[2017.10.07-03.24.21:004][  0]LogTemp: Env CWD: D:\Unreal Engine\UE_4.17\Engine\Binaries\DotNET\IOS
+[2017.10.07-03.24.21:004][  0]LogTemp: BranchPath = DESKTOP-SOJBPKL/D/Unreal Engine/UE_4.17/Engine/Binaries --- GameBranchPath = DESKTOP-SOJBPKL/D/Unreal Engine/UE_4.17/Engine/Binaries
+[2017.10.07-03.24.21:004][  0]LogSlate: Took 0.000173 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.07-03.24.21:019][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\yche5\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.10.07-03.24.21:019][  0]LogSlate: Took 0.000172 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.10.07-03.24.21:080][  0]LogSlate: Took 0.013415 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.10.07-03.24.21:567][  0]LogRenderer: Reallocating scene render targets to support 1224x612 Format 10 NumSamples 4 (Frame:1).
+[2017.10.07-03.24.22:090][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0008 seconds. Added 1 classes and 2 folders.
+[2017.10.07-03.24.22:090][  0]LogLoad: (Engine Initialization) Total time: 29.21 seconds
+[2017.10.07-03.24.22:090][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.10.07-03.24.22:091][  0]LogExternalProfiler: Found external profiler: VSPerf
+[2017.10.07-03.24.22:091][  0]LogExternalProfiler: Using external profiler: VSPerf
+[2017.10.07-03.24.22:487][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.10.07-03.24.22:690][  0]LogSlate: Took 0.029934 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.07-03.24.22:763][  1]LogFileCache: Retrieving MD5 hashes for directory 'D:/dev/ProteusTemplate-master/Content/' took 0.31s
+[2017.10.07-03.24.22:784][  1]LogAssetRegistry: Asset discovery search completed in 23.4375 seconds
+[2017.10.07-03.24.22:786][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2017.10.07-03.24.22:786][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000083 seconds (updated 0 objects)
+[2017.10.07-03.24.23:433][  3]LogSlate: Took 0.000419 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.07-03.29.43:678][ 90]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.07-03.29.43:926][ 90]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-03.29.43:926][ 90]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.07-03.29.43:941][ 90]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-03.29.43:941][ 90]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.10.07-03.29.43:960][ 90]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.10.07-03.29.43:960][ 90]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.10.07-03.29.43:960][ 90]LogOnline: Warning: STEAM: Steam API disabled!
+[2017.10.07-03.29.43:960][ 90]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2017.10.07-03.29.43:998][ 90]PIE: New page: PIE session: MainMenu (8/10/2017 5:29:43 am)
+[2017.10.07-03.29.43:999][ 90]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_0_MainMenu
+[2017.10.07-03.29.44:054][ 90]LogPlayLevel: PIE: StaticDuplicateObject took: (0.055154s)
+[2017.10.07-03.29.44:055][ 90]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.07-03.29.44:055][ 90]LogPlayLevel: PIE: World Init took: (0.000663s)
+[2017.10.07-03.29.44:055][ 90]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu (0.056144s)
+[2017.10.07-03.29.44:068][ 90]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-03.29.44:085][ 90]LogInit: FAudioDevice initialized.
+[2017.10.07-03.29.45:101][ 90]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'ResetVR' for  InputAction ResetVR
+[2017.10.07-03.29.45:102][ 90]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] InputAction Event references unknown Action 'Jump' for  InputAction Jump
+[2017.10.07-03.29.45:132][ 90]LogBlueprint: Warning: [Compiler ThirdPersonCharacter] [0352.25] Compile of ThirdPersonCharacter successful, but with 2 Warning(s) [in 75 ms] (/Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter)
+[2017.10.07-03.29.45:396][ 90]LogLoad: Game class is 'MainMenuGM_C'
+[2017.10.07-03.29.45:415][ 90]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2017.10.07-16.29.45
+[2017.10.07-03.29.45:437][ 90]LogWorld: Bringing up level for play took: 0.024922
+[2017.10.07-03.29.45:620][ 90]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.10.07-03.29.45:649][ 90]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.10.07-03.29.45:701][ 90]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0007 seconds. Added 11 classes and 0 folders.
+[2017.10.07-03.29.45:717][ 90]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is dechecked 1
+[2017.10.07-03.29.45:718][ 90]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.10.07-03.29.45:863][ 90]LogBlueprintUserMessages: [MainMenuPC_C_0] Hello
+[2017.10.07-03.29.45:868][ 90]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_0_MainMenu 2.047
+[2017.10.07-03.29.45:888][ 90]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-03.29.45:977][ 90]LogRenderer: Reallocating scene render targets to support 1292x756 Format 10 NumSamples 4 (Frame:1).
+[2017.10.07-03.29.50:310][346]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-03.29.50:407][346]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-03.29.50:407][346]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.10.07-03.29.50:417][346]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.10.07-03.29.50:417][346]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.10.07-03.29.50:417][346]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.10.07-03.29.50:417][346]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-03.29.50:452][347]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2017.10.07-03.29.50:452][347]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-03.48.20:308][141]PIE: Warning: Constraint in '/Engine/Transient.World_3:PersistentLevel.BP_InteractableActor_C_0.PhysicsConstraint' attempting to create a joint between objects that are both static.  No joint created.
+[2017.10.07-03.48.23:032][303]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (PlayerStart)
+[2017.10.07-03.48.32:017][819]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.10.07-03.48.32:508][819]LogSlate: Took 0.000113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.10.07-03.48.32:813][819]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0010 seconds. Added 113 classes and 0 folders.
+[2017.10.07-03.48.34:380][819]LogSlate: Took 0.011713 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.10.07-03.48.34:777][820]LogSlate: Took 0.005484 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2017.10.07-03.48.55:732][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenuPC" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset" SILENT=true
+[2017.10.07-03.48.55:992][ 25]LogSavePackage: Save=194.88ms
+[2017.10.07-03.48.55:992][ 25]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/MainMenuPC26A0F1914D08ED94138719AB6FBCDD96.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset'
+[2017.10.07-03.48.56:010][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset
+[2017.10.07-03.48.56:066][ 28]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenuPC" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset" SILENT=true
+[2017.10.07-03.48.56:231][ 28]LogSavePackage: Save=162.48ms
+[2017.10.07-03.48.56:231][ 28]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/MainMenuPC4E36EE0A42846C452804E28A27A36009.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset'
+[2017.10.07-03.48.56:232][ 28]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset
+[2017.10.07-03.49.02:143][193]BlueprintLog: New page: Compile MainMenuPC
+[2017.10.07-03.49.12:712][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenuPC" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset" SILENT=true
+[2017.10.07-03.49.12:880][800]LogSavePackage: Save=165.23ms
+[2017.10.07-03.49.12:880][800]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/MainMenuPCCFF033494713DA9EB61AA5963820C52C.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset'
+[2017.10.07-03.49.12:881][800]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset
+[2017.10.07-03.49.12:939][803]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenuPC" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset" SILENT=true
+[2017.10.07-03.49.13:105][803]LogSavePackage: Save=163.19ms
+[2017.10.07-03.49.13:105][803]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/MainMenuPC5537210646F34BE446217D93AB1800EF.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset'
+[2017.10.07-03.49.13:105][803]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset
+[2017.10.07-03.49.13:146][805]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenuPC" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset" SILENT=true
+[2017.10.07-03.49.13:313][805]LogSavePackage: Save=164.72ms
+[2017.10.07-03.49.13:313][805]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/MainMenuPCBFFE43BA4BA12EF1D98B1E862C466FC8.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset'
+[2017.10.07-03.49.13:314][805]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset
+[2017.10.07-03.50.39:129][399]LogEditorTransaction: Undo Add Node
+[2017.10.07-03.50.50:998][107]BlueprintLog: New page: Compile MainMenuGM
+[2017.10.07-03.50.51:911][132]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenuGM" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuGM.uasset" SILENT=true
+[2017.10.07-03.50.51:994][132]LogSavePackage: Save=74.77ms
+[2017.10.07-03.50.51:994][132]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/MainMenuGM81E14A44443EA824541E33A7392A33C2.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuGM.uasset'
+[2017.10.07-03.50.52:035][132]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuGM.uasset
+[2017.10.07-03.52.40:878][328]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenuGM" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuGM.uasset" SILENT=true
+[2017.10.07-03.52.40:953][328]LogSavePackage: Save=71.83ms
+[2017.10.07-03.52.40:953][328]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/MainMenuGM9A510A6B433EF4EC7E95B48D4A37DDF3.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuGM.uasset'
+[2017.10.07-03.52.40:955][328]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuGM.uasset
+[2017.10.07-03.53.24:719][301]BlueprintLog: New page: Compile MainMenuGM
+[2017.10.07-03.53.28:761][515]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.07-03.53.28:786][515]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-03.53.28:786][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.07-03.53.28:787][515]PIE: New page: PIE session: MainMenu (8/10/2017 5:53:28 am)
+[2017.10.07-03.53.28:787][515]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_0_MainMenu
+[2017.10.07-03.53.28:797][515]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009293s)
+[2017.10.07-03.53.28:797][515]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.07-03.53.28:797][515]LogPlayLevel: PIE: World Init took: (0.000712s)
+[2017.10.07-03.53.28:798][515]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu (0.010375s)
+[2017.10.07-03.53.28:818][515]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-03.53.28:830][515]LogInit: FAudioDevice initialized.
+[2017.10.07-03.53.28:871][515]LogLoad: Game class is 'MainMenuGM_C'
+[2017.10.07-03.53.28:876][515]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2017.10.07-16.53.28
+[2017.10.07-03.53.28:876][515]LogWorld: Bringing up level for play took: 0.003281
+[2017.10.07-03.53.28:908][515]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.10.07-03.53.28:908][515]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.10.07-03.53.28:909][515]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.10.07-03.53.28:915][515]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_0_MainMenu 1.086
+[2017.10.07-03.53.28:915][515]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-03.53.33:136][765]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-03.53.33:185][765]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-03.53.33:185][765]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.10.07-03.53.33:189][765]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.10.07-03.53.33:189][765]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.10.07-03.53.33:189][765]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.10.07-03.53.33:195][765]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-03.53.33:236][766]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2017.10.07-03.53.33:236][766]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-03.54.28:597][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenuPC" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset" SILENT=true
+[2017.10.07-03.54.28:778][ 84]LogSavePackage: Save=160.49ms
+[2017.10.07-03.54.28:778][ 84]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/MainMenuPCBC2080594D4004F391C4718A008A8B9A.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset'
+[2017.10.07-03.54.28:779][ 84]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset
+[2017.10.07-03.54.28:939][ 93]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenuPC" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset" SILENT=true
+[2017.10.07-03.54.29:108][ 93]LogSavePackage: Save=167.04ms
+[2017.10.07-03.54.29:108][ 93]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/MainMenuPCC3FFC3094B391162C5A1A6AFA8E6E2F1.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset'
+[2017.10.07-03.54.29:109][ 93]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset
+[2017.10.07-04.48.41:072][629]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2017.10.07-04.54.07:043][226]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenuGM" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuGM.uasset" SILENT=true
+[2017.10.07-04.54.07:122][226]LogSavePackage: Save=71.56ms
+[2017.10.07-04.54.07:122][226]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/MainMenuGMEEFB53FF435E5D7F307E59A3D2ABC76B.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuGM.uasset'
+[2017.10.07-04.54.07:126][226]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuGM.uasset
+[2017.10.07-04.54.25:487][327]LogEditorTransaction: Undo Move Node
+[2017.10.07-04.54.39:557][167]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenuGM" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuGM.uasset" SILENT=true
+[2017.10.07-04.54.39:635][167]LogSavePackage: Save=75.58ms
+[2017.10.07-04.54.39:635][167]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/MainMenuGM55668E6B45F6DD12AD04319E5DE3F349.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuGM.uasset'
+[2017.10.07-04.54.39:637][167]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuGM.uasset
+[2017.10.07-04.54.46:066][553]BlueprintLog: New page: Compile MainMenuGM
+[2017.10.07-04.54.47:703][623]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.07-04.54.47:726][623]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-04.54.47:726][623]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.07-04.54.47:727][623]PIE: New page: PIE session: MainMenu (8/10/2017 6:54:47 am)
+[2017.10.07-04.54.47:727][623]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_0_MainMenu
+[2017.10.07-04.54.47:737][623]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009722s)
+[2017.10.07-04.54.47:738][623]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.07-04.54.47:738][623]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2017.10.07-04.54.47:738][623]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu (0.010957s)
+[2017.10.07-04.54.47:759][623]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-04.54.47:772][623]LogInit: FAudioDevice initialized.
+[2017.10.07-04.54.47:813][623]LogLoad: Game class is 'MainMenuGM_C'
+[2017.10.07-04.54.47:818][623]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2017.10.07-17.54.47
+[2017.10.07-04.54.47:819][623]LogWorld: Bringing up level for play took: 0.003891
+[2017.10.07-04.54.47:851][623]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.10.07-04.54.47:851][623]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.10.07-04.54.47:851][623]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.10.07-04.54.47:859][623]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_0_MainMenu 0.017
+[2017.10.07-04.54.47:859][623]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-04.54.50:543][781]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-04.54.50:590][781]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-04.54.50:590][781]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.10.07-04.54.50:595][781]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.10.07-04.54.50:595][781]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.10.07-04.54.50:595][781]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.10.07-04.54.50:604][781]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-04.54.50:644][782]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2017.10.07-04.54.50:644][782]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-04.54.57:965][221]LogEditorViewport: Clicking on Actor (LMB): Landscape (Landscape)
+[2017.10.07-04.55.12:391][994]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-04.55.12:581][994]LogSavePackage: Save=182.63ms
+[2017.10.07-04.55.12:581][994]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance0C2203A1429BDEA6325051B0DDA1B9A5.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-04.55.12:626][994]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-05.29.57:350][322]BlueprintLog: New page: Compile GameInfoInstance
+[2017.10.07-05.30.22:371][654]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Proteus_Multi/MainMenu' took 0.026
+[2017.10.07-05.30.22:391][654]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Proteus_Multi/GameInfoInstance] ([1] browsable assets)...
+[2017.10.07-05.30.22:391][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Proteus_Multi/GameInfoInstance]
+[2017.10.07-05.30.22:815][654]LogSavePackage: Save=284.33ms
+[2017.10.07-05.30.22:815][654]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance_Auto17DDC58B84F2FD9AB43DD8F81BC96F045.tmp' to '../../../../../dev/ProteusTemplate-master/Saved/Autosaves/Game/Proteus_Multi/GameInfoInstance_Auto1.uasset'
+[2017.10.07-05.30.22:816][654]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Saved/Autosaves/Game/Proteus_Multi/GameInfoInstance_Auto1.uasset
+[2017.10.07-05.30.22:816][654]LogFileHelpers: Auto-saving content packages took 0.444
+[2017.10.07-06.39.19:544][126]BlueprintLog: New page: Compile GameInfoInstance
+[2017.10.07-06.39.47:570][677]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.39.47:780][677]LogSavePackage: Save=200.40ms
+[2017.10.07-06.39.47:780][677]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance4DB2B74C474D53D5A323F6A4C7CD8CC5.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.39.47:800][677]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.39.55:120][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.39.55:311][115]LogSavePackage: Save=188.45ms
+[2017.10.07-06.39.55:311][115]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance255F3C3441204ED32E72ED9E4780CE1D.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.39.55:313][115]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.39.55:495][125]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.39.55:686][125]LogSavePackage: Save=189.36ms
+[2017.10.07-06.39.55:686][125]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstanceEF8385234D52D39F90EC8E88D8317B66.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.39.55:687][125]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.39.56:099][150]BlueprintLog: New page: Compile GameInfoInstance
+[2017.10.07-06.39.58:056][150]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.39.58:249][150]LogSavePackage: Save=190.85ms
+[2017.10.07-06.39.58:249][150]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance7660EE28481F9BFCAB46A5A7397E0C29.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.39.58:250][150]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.40.10:575][877]BlueprintLog: New page: Compile GameInfoInstance
+[2017.10.07-06.40.12:509][877]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.40.12:703][877]LogSavePackage: Save=191.79ms
+[2017.10.07-06.40.12:703][877]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance5FDCA6E9495CC717A38485911064AD5A.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.40.12:705][877]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.40.13:495][918]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.40.13:687][918]LogSavePackage: Save=189.85ms
+[2017.10.07-06.40.13:687][918]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance7102196D41AB0B7F70A425B4D0657108.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.40.13:687][918]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.40.14:883][990]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.07-06.40.14:905][990]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.40.14:905][990]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.07-06.40.14:935][990]PIE: New page: PIE session: MainMenu (8/10/2017 8:40:14 am)
+[2017.10.07-06.40.15:178][990]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_0_MainMenu
+[2017.10.07-06.40.15:197][990]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019088s)
+[2017.10.07-06.40.15:197][990]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.07-06.40.15:198][990]LogPlayLevel: PIE: World Init took: (0.000776s)
+[2017.10.07-06.40.15:198][990]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu (0.020286s)
+[2017.10.07-06.40.15:237][990]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-06.40.15:251][990]LogInit: FAudioDevice initialized.
+[2017.10.07-06.40.15:296][990]LogLoad: Game class is 'MainMenuGM_C'
+[2017.10.07-06.40.15:311][990]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2017.10.07-19.40.15
+[2017.10.07-06.40.15:311][990]LogWorld: Bringing up level for play took: 0.002682
+[2017.10.07-06.40.15:386][990]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.10.07-06.40.15:386][990]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.10.07-06.40.15:398][990]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.10.07-06.40.15:463][990]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_0_MainMenu -0.427
+[2017.10.07-06.40.15:463][990]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.40.19:548][228]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.40.19:599][228]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-06.40.19:600][228]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.10.07-06.40.19:609][228]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.10.07-06.40.19:609][228]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.10.07-06.40.19:609][228]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.10.07-06.40.19:681][228]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.40.19:725][229]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2017.10.07-06.40.19:725][229]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-06.41.27:028][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.41.27:230][ 37]LogSavePackage: Save=200.01ms
+[2017.10.07-06.41.27:232][ 37]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance88B59BAF4F4A2FF9B898FC8B1D7A2FD2.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.41.27:235][ 37]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.41.27:384][ 45]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.41.27:594][ 45]LogSavePackage: Save=207.53ms
+[2017.10.07-06.41.27:594][ 45]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance4AF9631A4B696B1DEE7999AAB9DCC382.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.41.27:595][ 45]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.41.27:841][ 60]BlueprintLog: New page: Compile GameInfoInstance
+[2017.10.07-06.41.31:481][153]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.07-06.41.31:503][153]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.41.31:504][153]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.07-06.41.31:504][153]PIE: New page: PIE session: MainMenu (8/10/2017 8:41:31 am)
+[2017.10.07-06.41.31:602][153]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_0_MainMenu
+[2017.10.07-06.41.31:611][153]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008973s)
+[2017.10.07-06.41.31:611][153]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.07-06.41.31:612][153]LogPlayLevel: PIE: World Init took: (0.001065s)
+[2017.10.07-06.41.31:612][153]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu (0.010470s)
+[2017.10.07-06.41.31:638][153]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-06.41.31:651][153]LogInit: FAudioDevice initialized.
+[2017.10.07-06.41.31:692][153]LogLoad: Game class is 'MainMenuGM_C'
+[2017.10.07-06.41.31:697][153]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2017.10.07-19.41.31
+[2017.10.07-06.41.31:697][153]LogWorld: Bringing up level for play took: 0.003321
+[2017.10.07-06.41.31:730][153]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.10.07-06.41.31:730][153]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.10.07-06.41.31:730][153]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.10.07-06.41.31:732][153]LogBlueprintUserMessages: [GameInfoInstance_C_0] savegamecheck initiated
+[2017.10.07-06.41.31:736][153]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_0_MainMenu -0.155
+[2017.10.07-06.41.31:736][153]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.41.34:210][299]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.41.34:260][299]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-06.41.34:260][299]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.10.07-06.41.34:265][299]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.10.07-06.41.34:265][299]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.10.07-06.41.34:265][299]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.10.07-06.41.34:273][299]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.41.34:325][300]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2017.10.07-06.41.34:326][300]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-06.47.27:588][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.47.27:797][978]LogSavePackage: Save=202.07ms
+[2017.10.07-06.47.27:797][978]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstanceA1FFE74E4969201197FB1CBEC087A3FD.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.47.27:799][978]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.47.27:952][986]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.47.28:154][986]LogSavePackage: Save=199.42ms
+[2017.10.07-06.47.28:156][986]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance3EFB92AE466BA8CDCA767186DBD46B54.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.47.28:157][986]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.47.28:685][ 18]BlueprintLog: New page: Compile GameInfoInstance
+[2017.10.07-06.47.31:908][ 92]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.07-06.47.31:931][ 92]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.47.31:931][ 92]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.07-06.47.31:931][ 92]PIE: New page: PIE session: MainMenu (8/10/2017 8:47:31 am)
+[2017.10.07-06.47.32:030][ 92]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_0_MainMenu
+[2017.10.07-06.47.32:039][ 92]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009069s)
+[2017.10.07-06.47.32:040][ 92]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.07-06.47.32:040][ 92]LogPlayLevel: PIE: World Init took: (0.000677s)
+[2017.10.07-06.47.32:040][ 92]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu (0.010193s)
+[2017.10.07-06.47.32:066][ 92]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-06.47.32:080][ 92]LogInit: FAudioDevice initialized.
+[2017.10.07-06.47.32:118][ 92]LogLoad: Game class is 'MainMenuGM_C'
+[2017.10.07-06.47.32:122][ 92]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2017.10.07-19.47.32
+[2017.10.07-06.47.32:122][ 92]LogWorld: Bringing up level for play took: 0.003189
+[2017.10.07-06.47.32:154][ 92]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.10.07-06.47.32:154][ 92]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.10.07-06.47.32:154][ 92]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.10.07-06.47.32:156][ 92]LogBlueprintUserMessages: [GameInfoInstance_C_0] savegamecheck initiated
+[2017.10.07-06.47.32:159][ 92]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_0_MainMenu 0.266
+[2017.10.07-06.47.32:160][ 92]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.47.33:863][192]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.47.33:912][192]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-06.47.33:912][192]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.10.07-06.47.33:916][192]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.10.07-06.47.33:916][192]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.10.07-06.47.33:916][192]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.10.07-06.47.33:925][192]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.47.33:981][193]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2017.10.07-06.47.33:981][193]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-06.48.06:291][688]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Proteus_Multi/MainMenu' took 0.023
+[2017.10.07-06.48.06:293][688]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Proteus_Multi/GameInfoInstance] ([1] browsable assets)...
+[2017.10.07-06.48.06:293][688]OBJ SavePackage: Finished generating thumbnails for package [/Game/Proteus_Multi/GameInfoInstance]
+[2017.10.07-06.48.06:497][688]LogSavePackage: Save=201.36ms
+[2017.10.07-06.48.06:497][688]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance_Auto2C69A7C18473F968A6B4596A952E6004F.tmp' to '../../../../../dev/ProteusTemplate-master/Saved/Autosaves/Game/Proteus_Multi/GameInfoInstance_Auto2.uasset'
+[2017.10.07-06.48.06:497][688]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Saved/Autosaves/Game/Proteus_Multi/GameInfoInstance_Auto2.uasset
+[2017.10.07-06.48.06:497][688]LogFileHelpers: Auto-saving content packages took 0.205
+[2017.10.07-06.48.22:326][ 63]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.48.22:527][ 63]LogSavePackage: Save=197.20ms
+[2017.10.07-06.48.22:529][ 63]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstanceC6E1873B49DC2A8798371A9D88B6A3AC.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.48.22:531][ 63]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.48.22:680][ 71]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.48.22:876][ 71]LogSavePackage: Save=194.05ms
+[2017.10.07-06.48.22:876][ 71]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance328F8152467E00C1462F98A90F419326.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.48.22:877][ 71]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.48.23:393][102]BlueprintLog: New page: Compile GameInfoInstance
+[2017.10.07-06.48.27:679][238]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.07-06.48.27:700][238]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.48.27:701][238]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.07-06.48.27:701][238]PIE: New page: PIE session: MainMenu (8/10/2017 8:48:27 am)
+[2017.10.07-06.48.27:797][238]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_0_MainMenu
+[2017.10.07-06.48.27:805][238]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008646s)
+[2017.10.07-06.48.27:807][238]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.07-06.48.27:807][238]LogPlayLevel: PIE: World Init took: (0.001036s)
+[2017.10.07-06.48.27:807][238]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu (0.010016s)
+[2017.10.07-06.48.27:833][238]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-06.48.27:846][238]LogInit: FAudioDevice initialized.
+[2017.10.07-06.48.27:886][238]LogLoad: Game class is 'MainMenuGM_C'
+[2017.10.07-06.48.27:889][238]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2017.10.07-19.48.27
+[2017.10.07-06.48.27:889][238]LogWorld: Bringing up level for play took: 0.002900
+[2017.10.07-06.48.27:923][238]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.10.07-06.48.27:923][238]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.10.07-06.48.27:923][238]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.10.07-06.48.27:925][238]LogBlueprintUserMessages: [GameInfoInstance_C_0] savegamecheck initiated
+[2017.10.07-06.48.27:929][238]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_0_MainMenu 0.035
+[2017.10.07-06.48.27:929][238]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.48.29:489][329]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.48.29:541][329]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-06.48.29:541][329]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.10.07-06.48.29:545][329]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.10.07-06.48.29:545][329]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.10.07-06.48.29:545][329]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.10.07-06.48.29:554][329]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.48.29:604][330]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2017.10.07-06.48.29:604][330]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-06.50.57:681][642]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.50.57:896][642]LogSavePackage: Save=211.53ms
+[2017.10.07-06.50.57:896][642]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance4FFAE9F44F4675955A293EA8040E70FD.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.50.57:898][642]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.50.58:337][668]BlueprintLog: New page: Compile GameInfoInstance
+[2017.10.07-06.51.06:463][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.51.06:675][ 26]LogSavePackage: Save=209.35ms
+[2017.10.07-06.51.06:675][ 26]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance52BCC71E43109347A9328B991F28B141.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.51.06:677][ 26]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.51.06:835][ 35]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.51.07:046][ 35]LogSavePackage: Save=208.40ms
+[2017.10.07-06.51.07:046][ 35]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance10F2E52C45FD0925A66B4F896D8A0200.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.51.07:047][ 35]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.51.09:076][157]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.07-06.51.09:097][157]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.51.09:098][157]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.07-06.51.09:098][157]PIE: New page: PIE session: MainMenu (8/10/2017 8:51:09 am)
+[2017.10.07-06.51.09:196][157]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_0_MainMenu
+[2017.10.07-06.51.09:205][157]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009085s)
+[2017.10.07-06.51.09:206][157]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.07-06.51.09:207][157]LogPlayLevel: PIE: World Init took: (0.001207s)
+[2017.10.07-06.51.09:207][157]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu (0.010817s)
+[2017.10.07-06.51.09:234][157]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-06.51.09:248][157]LogInit: FAudioDevice initialized.
+[2017.10.07-06.51.09:292][157]LogLoad: Game class is 'MainMenuGM_C'
+[2017.10.07-06.51.09:296][157]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2017.10.07-19.51.09
+[2017.10.07-06.51.09:297][157]LogWorld: Bringing up level for play took: 0.003406
+[2017.10.07-06.51.09:329][157]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.10.07-06.51.09:330][157]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.10.07-06.51.09:330][157]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.10.07-06.51.09:331][157]LogBlueprintUserMessages: [GameInfoInstance_C_0] savegamecheck initiated
+[2017.10.07-06.51.09:332][157]LogBlueprintUserMessages: [GameInfoInstance_C_0] Not ready!
+[2017.10.07-06.51.09:335][157]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_0_MainMenu -0.559
+[2017.10.07-06.51.09:335][157]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.51.09:394][158]LogBlueprintUserMessages: [GameInfoInstance_C_0] Not ready!
+[2017.10.07-06.51.09:597][170]LogBlueprintUserMessages: [GameInfoInstance_C_0] Not ready!
+[2017.10.07-06.51.09:796][182]LogBlueprintUserMessages: [GameInfoInstance_C_0] Not ready!
+[2017.10.07-06.51.09:996][194]LogBlueprintUserMessages: [GameInfoInstance_C_0] Not ready!
+[2017.10.07-06.51.10:196][206]LogBlueprintUserMessages: [GameInfoInstance_C_0] Not ready!
+[2017.10.07-06.51.10:397][218]LogBlueprintUserMessages: [GameInfoInstance_C_0] Not ready!
+[2017.10.07-06.51.10:596][230]LogBlueprintUserMessages: [GameInfoInstance_C_0] Not ready!
+[2017.10.07-06.51.10:796][242]LogBlueprintUserMessages: [GameInfoInstance_C_0] Not ready!
+[2017.10.07-06.51.10:996][254]LogBlueprintUserMessages: [GameInfoInstance_C_0] Not ready!
+[2017.10.07-06.51.10:997][254]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.51.11:047][254]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-06.51.11:047][254]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.10.07-06.51.11:051][254]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.10.07-06.51.11:051][254]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.10.07-06.51.11:051][254]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.10.07-06.51.11:061][254]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.51.11:116][255]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2017.10.07-06.51.11:116][255]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-06.51.14:222][440]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.51.14:435][440]LogSavePackage: Save=210.59ms
+[2017.10.07-06.51.14:435][440]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstanceF4C804A14EE53D33864CF6A4597743A6.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.51.14:435][440]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.53.39:591][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenuPC" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset" SILENT=true
+[2017.10.07-06.53.40:153][780]LogSavePackage: Save=176.10ms
+[2017.10.07-06.53.40:153][780]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/MainMenuPC0685836748AE8B19608132B155101964.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset'
+[2017.10.07-06.53.40:155][780]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset
+[2017.10.07-06.53.40:732][815]BlueprintLog: New page: Compile MainMenuPC
+[2017.10.07-06.53.40:856][815]LogBlueprint: Error: [Compiler MainMenuPC] This blueprint (self) is not a GameInfoInstance_C, therefore ' Target ' must have a connection.
+[2017.10.07-06.53.40:893][815]LogBlueprint: Error: [Compiler MainMenuPC] Variable node  Set Ready  uses an invalid target.  It may depend on a node that is not connected to the execution chain, and got purged.
+[2017.10.07-06.53.41:290][815]LogBlueprint: Warning: [Compiler MainMenuPC] [2588.33] Compile of MainMenuPC failed. 2 Fatal Issue(s) 0 Warning(s) [in 558 ms] (/Game/Proteus_Multi/MainMenuPC.MainMenuPC)
+[2017.10.07-06.56.42:555][644]BlueprintLog: New page: Compile MainMenuPC
+[2017.10.07-06.56.48:816][989]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/MainMenuPC" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset" SILENT=true
+[2017.10.07-06.56.48:983][989]LogSavePackage: Save=165.20ms
+[2017.10.07-06.56.48:983][989]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/MainMenuPC05FB6E654EEF90A75BB512840EEC7F7D.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset'
+[2017.10.07-06.56.48:985][989]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/MainMenuPC.uasset
+[2017.10.07-06.56.52:582][205]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.07-06.56.52:603][205]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.56.52:604][205]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.07-06.56.52:604][205]PIE: New page: PIE session: MainMenu (8/10/2017 8:56:52 am)
+[2017.10.07-06.56.52:617][205]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_0_MainMenu
+[2017.10.07-06.56.52:625][205]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008832s)
+[2017.10.07-06.56.52:626][205]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.07-06.56.52:626][205]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2017.10.07-06.56.52:627][205]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu (0.009957s)
+[2017.10.07-06.56.52:651][205]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-06.56.52:664][205]LogInit: FAudioDevice initialized.
+[2017.10.07-06.56.52:706][205]LogLoad: Game class is 'MainMenuGM_C'
+[2017.10.07-06.56.52:711][205]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2017.10.07-19.56.52
+[2017.10.07-06.56.52:711][205]LogWorld: Bringing up level for play took: 0.003085
+[2017.10.07-06.56.52:743][205]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.10.07-06.56.52:744][205]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.10.07-06.56.52:744][205]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.10.07-06.56.52:746][205]LogBlueprintUserMessages: [GameInfoInstance_C_1] savegamecheck initiated
+[2017.10.07-06.56.52:746][205]LogBlueprintUserMessages: [GameInfoInstance_C_1] checking vr settings
+[2017.10.07-06.56.52:746][205]LogBlueprintUserMessages: [GameInfoInstance_C_1] checking breakvrsettings
+[2017.10.07-06.56.52:746][205]LogBlueprintUserMessages: [GameInfoInstance_C_1] No HDMI detected!
+[2017.10.07-06.56.52:750][205]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_0_MainMenu 0.853
+[2017.10.07-06.56.52:750][205]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.56.56:687][438]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.56.56:733][438]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-06.56.56:733][438]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.10.07-06.56.56:738][438]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.10.07-06.56.56:738][438]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.10.07-06.56.56:738][438]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.10.07-06.56.56:748][438]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.56.56:790][439]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2017.10.07-06.56.56:790][439]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-06.57.08:561][140]LogEditorTransaction: Undo Delete current selection
+[2017.10.07-06.57.23:499][ 29]LogEditorTransaction: Undo Delete current selection
+[2017.10.07-06.57.46:118][378]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.57.46:315][378]LogSavePackage: Save=189.93ms
+[2017.10.07-06.57.46:315][378]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance0814EC5845E1DA7DE45A5DABC3ADB917.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.57.46:318][378]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.57.46:782][406]BlueprintLog: New page: Compile GameInfoInstance
+[2017.10.07-06.57.52:438][624]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.07-06.57.52:462][624]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.57.52:462][624]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.07-06.57.52:462][624]PIE: New page: PIE session: MainMenu (8/10/2017 8:57:52 am)
+[2017.10.07-06.57.52:556][624]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_0_MainMenu
+[2017.10.07-06.57.52:565][624]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009028s)
+[2017.10.07-06.57.52:566][624]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.07-06.57.52:566][624]LogPlayLevel: PIE: World Init took: (0.000949s)
+[2017.10.07-06.57.52:566][624]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu (0.010513s)
+[2017.10.07-06.57.52:592][624]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-06.57.52:604][624]LogInit: FAudioDevice initialized.
+[2017.10.07-06.57.52:649][624]LogLoad: Game class is 'MainMenuGM_C'
+[2017.10.07-06.57.52:654][624]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2017.10.07-19.57.52
+[2017.10.07-06.57.52:654][624]LogWorld: Bringing up level for play took: 0.003273
+[2017.10.07-06.57.52:688][624]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.10.07-06.57.52:688][624]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.10.07-06.57.52:688][624]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.10.07-06.57.52:690][624]LogBlueprintUserMessages: [GameInfoInstance_C_0] checking breakvrsettings
+[2017.10.07-06.57.52:690][624]LogBlueprintUserMessages: [GameInfoInstance_C_0] No HDMI detected!
+[2017.10.07-06.57.52:695][624]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_0_MainMenu 0.798
+[2017.10.07-06.57.52:696][624]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.57.54:101][706]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.57.54:154][706]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-06.57.54:154][706]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.10.07-06.57.54:158][706]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.10.07-06.57.54:158][706]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.10.07-06.57.54:158][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.10.07-06.57.54:167][706]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-06.57.54:225][707]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2017.10.07-06.57.54:225][707]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-06.58.05:367][374]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.58.05:558][374]LogSavePackage: Save=188.72ms
+[2017.10.07-06.58.05:558][374]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstanceB42F5623458135021880D9B4AC821090.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.58.05:561][374]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-06.58.05:785][387]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-06.58.05:992][387]LogSavePackage: Save=205.04ms
+[2017.10.07-06.58.05:992][387]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance9C4FBA714EE7E0A5223A099E93EAC4DD.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-06.58.05:993][387]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-07.00.17:551][  3]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-07.00.17:750][  3]LogSavePackage: Save=196.49ms
+[2017.10.07-07.00.17:750][  3]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstanceD92A308841FE5BDF356A438F5E10FFC0.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-07.00.17:752][  3]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-07.00.17:928][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-07.00.18:127][ 13]LogSavePackage: Save=196.82ms
+[2017.10.07-07.00.18:129][ 13]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstanceE5BC700E4B95E0A4D9B77490238FA728.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-07.00.18:130][ 13]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-07.00.26:122][492]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-07.00.26:321][492]LogSavePackage: Save=196.76ms
+[2017.10.07-07.00.26:322][492]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstanceC0FC975E4A6208EB6D5D339DEDA9F3B7.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-07.00.26:323][492]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-07.00.26:500][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-07.00.26:704][502]LogSavePackage: Save=201.96ms
+[2017.10.07-07.00.26:704][502]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance2F248D5A4FC954B67C21C1951DA3BBFC.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-07.00.26:705][502]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-07.01.29:423][248]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-07.01.29:627][248]LogSavePackage: Save=200.84ms
+[2017.10.07-07.01.29:628][248]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance6C6E81204B234A692320C7B2AA7A7510.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-07.01.29:630][248]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-07.01.31:143][339]BlueprintLog: New page: Compile GameInfoInstance
+[2017.10.07-07.05.03:315][ 25]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-07.05.03:517][ 25]LogSavePackage: Save=194.30ms
+[2017.10.07-07.05.03:521][ 25]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance6C4C5CBD41D0C7083D9349BB5AB1CF6A.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-07.05.03:521][ 25]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-07.05.29:049][557]LogEditorTransaction: Undo Break Pin Links
+[2017.10.07-07.06.16:656][197]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-07.06.16:854][197]LogSavePackage: Save=195.59ms
+[2017.10.07-07.06.16:854][197]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstanceA2330C9E4F6E8BAA5D9C009D70E0714D.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-07.06.16:857][197]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-07.06.27:286][816]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-07.06.27:487][816]LogSavePackage: Save=198.49ms
+[2017.10.07-07.06.27:489][816]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance4D2D3A2D44EAADADA76FCE8D938A4E71.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-07.06.27:491][816]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-07.06.27:918][842]BlueprintLog: New page: Compile GameInfoInstance
+[2017.10.07-07.06.33:044][944]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.07-07.06.33:066][944]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-07.06.33:066][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.07-07.06.33:066][944]PIE: New page: PIE session: MainMenu (8/10/2017 9:06:33 am)
+[2017.10.07-07.06.33:163][944]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_0_MainMenu
+[2017.10.07-07.06.33:174][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010235s)
+[2017.10.07-07.06.33:175][944]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.07-07.06.33:175][944]LogPlayLevel: PIE: World Init took: (0.001246s)
+[2017.10.07-07.06.33:175][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu (0.011963s)
+[2017.10.07-07.06.33:201][944]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-07.06.33:215][944]LogInit: FAudioDevice initialized.
+[2017.10.07-07.06.33:256][944]LogLoad: Game class is 'MainMenuGM_C'
+[2017.10.07-07.06.33:260][944]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2017.10.07-20.06.33
+[2017.10.07-07.06.33:260][944]LogWorld: Bringing up level for play took: 0.003686
+[2017.10.07-07.06.33:296][944]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.10.07-07.06.33:296][944]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.10.07-07.06.33:296][944]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.10.07-07.06.33:333][944]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_0_MainMenu -0.567
+[2017.10.07-07.06.33:334][944]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-07.06.43:055][506]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-07.06.43:111][506]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-07.06.43:111][506]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.10.07-07.06.43:116][506]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.10.07-07.06.43:116][506]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.10.07-07.06.43:116][506]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.10.07-07.06.43:127][506]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-07.06.43:179][507]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2017.10.07-07.06.43:179][507]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-07.06.45:474][644]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2017.10.07-07.06.45:497][644]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-07.06.45:497][644]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.10.07-07.06.45:497][644]PIE: New page: PIE session: MainMenu (8/10/2017 9:06:45 am)
+[2017.10.07-07.06.45:497][644]LogPlayLevel: Creating play world package: /Game/Proteus_Multi/UEDPIE_0_MainMenu
+[2017.10.07-07.06.45:506][644]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008703s)
+[2017.10.07-07.06.45:507][644]LogAIModule: Creating AISystem for world MainMenu
+[2017.10.07-07.06.45:507][644]LogPlayLevel: PIE: World Init took: (0.000603s)
+[2017.10.07-07.06.45:507][644]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Proteus_Multi/MainMenu.MainMenu to /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu (0.009657s)
+[2017.10.07-07.06.45:533][644]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.10.07-07.06.45:546][644]LogInit: FAudioDevice initialized.
+[2017.10.07-07.06.45:593][644]LogLoad: Game class is 'MainMenuGM_C'
+[2017.10.07-07.06.45:597][644]LogWorld: Bringing World /Game/Proteus_Multi/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2017.10.07-20.06.45
+[2017.10.07-07.06.45:597][644]LogWorld: Bringing up level for play took: 0.003033
+[2017.10.07-07.06.45:630][644]LogVoiceEncode: Display: EncoderVersion: libopus 1.1-beta
+[2017.10.07-07.06.45:631][644]LogVoiceEncode: Error: StartLocalVoiceProcessing(): Device is currently owned by another user
+[2017.10.07-07.06.45:631][644]LogBlueprintUserMessages: [MainMenuGM_C_0] VR is disabled
+[2017.10.07-07.06.45:637][644]PIE: Play in editor start time for /Game/Proteus_Multi/UEDPIE_0_MainMenu -0.263
+[2017.10.07-07.06.45:638][644]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-07.06.49:565][876]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-07.06.49:618][876]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-07.06.49:618][876]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Stop() ActiveTask:0000000000000000 Tasks[0/0]
+[2017.10.07-07.06.49:622][876]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() started
+[2017.10.07-07.06.49:622][876]LogOnline: Display: OSS: FOnlineAsyncTaskManager::Exit() finished
+[2017.10.07-07.06.49:622][876]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2017.10.07-07.06.49:631][876]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel' has LevelScriptBlueprint '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu' with GeneratedClass '/Game/Proteus_Multi/MainMenu.MainMenu_C' with ClassGeneratedBy '/Game/Proteus_Multi/MainMenu.MainMenu:PersistentLevel.MainMenu'
+[2017.10.07-07.06.49:685][877]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2017.10.07-07.06.49:685][877]LogOnline: Display: OSS: FOnlineSubsystemNull::Shutdown()
+[2017.10.07-07.07.06:900][895]BlueprintLog: New page: Compile GameInfoInstance
+[2017.10.07-07.07.12:051][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-07.07.12:248][  6]LogSavePackage: Save=195.68ms
+[2017.10.07-07.07.12:248][  6]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance70286EC546A79CF979F6A991C66ABCE4.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-07.07.12:251][  6]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-08.07.38:868][337]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-08.07.39:068][337]LogSavePackage: Save=193.69ms
+[2017.10.07-08.07.39:070][337]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstanceFCF9CFC04A64A71A525061AA26C89BBF.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-08.07.39:071][337]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-08.07.39:226][346]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Proteus_Multi/GameInfoInstance" FILE="../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset" SILENT=true
+[2017.10.07-08.07.39:419][346]LogSavePackage: Save=190.61ms
+[2017.10.07-08.07.39:419][346]LogSavePackage: Moving '../../../../../dev/ProteusTemplate-master/Saved/GameInfoInstance27743B8A4C494F098FC4F89B690CEB4F.tmp' to '../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset'
+[2017.10.07-08.07.39:419][346]LogSavePackage: Display: Finished SavePackage ../../../../../dev/ProteusTemplate-master/Content/Proteus_Multi/GameInfoInstance.uasset
+[2017.10.07-08.07.40:980][414]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.07-08.07.41:038][414]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.10.07-08.07.41:384][415]Cmd: QUIT_EDITOR
+[2017.10.07-08.07.42:231][415]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2017.10.07-08.07.42:242][415]LogExit: Preparing to exit.
+[2017.10.07-08.07.42:964][415]LogDirectoryWatcher: A directory notification for 'D:/dev/ProteusTemplate-master/Content/' was aborted.
+[2017.10.07-08.07.43:029][415]LogExit: Editor shut down
+[2017.10.07-08.07.43:034][415]LogExit: Transaction tracking system shut down
+[2017.10.07-08.07.43:180][415]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.10.07-08.07.43:180][415]LogDirectoryWatcher: A directory notification for '../../../../../dev/ProteusTemplate-master/Content/' was aborted.
+[2017.10.07-08.07.43:180][415]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.10.07-08.07.43:180][415]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/' was aborted.
+[2017.10.07-08.07.43:180][415]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/Steam/SteamVR/Content/' was aborted.
+[2017.10.07-08.07.43:296][415]LogExit: Object subsystem successfully closed.
+[2017.10.07-08.07.43:315][415]LogD3D11RHI: Shutdown
+[2017.10.07-08.07.43:316][415]LogD3D11RHI: CleanupD3DDevice
+[2017.10.07-08.07.43:457][415]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.10.07-08.07.43:465][415]LogModuleManager: Shutting down and abandoning module BlueprintGraph (544)
+[2017.10.07-08.07.43:465][415]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (542)
+[2017.10.07-08.07.43:465][415]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (540)
+[2017.10.07-08.07.43:465][415]LogModuleManager: Shutting down and abandoning module Voice (538)
+[2017.10.07-08.07.43:470][415]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (536)
+[2017.10.07-08.07.43:470][415]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (534)
+[2017.10.07-08.07.43:470][415]LogModuleManager: Shutting down and abandoning module SceneOutliner (532)
+[2017.10.07-08.07.43:470][415]LogModuleManager: Shutting down and abandoning module AddContentDialog (530)
+[2017.10.07-08.07.43:470][415]LogDirectoryWatcher: A directory notification for 'D:/Unreal Engine/UE_4.17/FeaturePacks/' was aborted.
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module WidgetCarousel (529)
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module EditorWidgets (526)
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module CollectionManager (524)
+[2017.10.07-08.07.43:471][415]LogDirectoryWatcher: A directory notification for 'D:/dev/ProteusTemplate-master/Content/Collections/' was aborted.
+[2017.10.07-08.07.43:471][415]LogDirectoryWatcher: A directory notification for 'D:/dev/ProteusTemplate-master/Content/Developers/yche5/Collections/' was aborted.
+[2017.10.07-08.07.43:471][415]LogDirectoryWatcher: A directory notification for 'D:/dev/ProteusTemplate-master/Saved/Collections/' was aborted.
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module StatsViewer (522)
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module FoliageEdit (520)
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module LandscapeEditor (518)
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module MeshPaintMode (516)
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (514)
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module ActorPickerMode (512)
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module GeometryMode (510)
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module TextureAlignMode (508)
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module BspMode (506)
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (504)
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module HardwareSurvey (502)
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (500)
+[2017.10.07-08.07.43:471][415]LogModuleManager: Shutting down and abandoning module AutomationWorker (498)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (496)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (494)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module PlacementMode (493)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (490)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (488)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (486)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (484)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (482)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module Media (481)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (478)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module CharacterAI (476)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module AudioCapture (474)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module SequenceRecorder (473)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module SmartSnapping (470)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module SessionServices (468)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module ViewportSnapping (466)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module ViewportInteraction (464)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module ClothPainter (462)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module LogVisualizer (460)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module IntroTutorials (458)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (457)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (454)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (452)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (450)
+[2017.10.07-08.07.43:472][415]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (449)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (446)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (444)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (442)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module InputBindingEditor (440)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module MergeActors (438)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module SizeMap (436)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module TreeMap (434)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module ReferenceViewer (432)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (430)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module LocalizationService (429)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module HardwareTargeting (426)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (424)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module UndoHistory (422)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module XmlParser (420)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module Blutility (418)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (416)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (415)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (412)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module SettingsEditor (410)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module ProjectLauncher (408)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module SessionFrontend (406)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module ProfilerClient (404)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module DeviceManager (402)
+[2017.10.07-08.07.43:710][415]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (401)
+[2017.10.07-08.07.43:762][415]LogModuleManager: Shutting down and abandoning module AutomationController (398)
+[2017.10.07-08.07.43:762][415]LogModuleManager: Shutting down and abandoning module AutomationWindow (396)
+[2017.10.07-08.07.43:762][415]LogModuleManager: Shutting down and abandoning module Layers (394)
+[2017.10.07-08.07.43:762][415]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (392)
+[2017.10.07-08.07.43:762][415]LogModuleManager: Shutting down and abandoning module DetailCustomizations (390)
+[2017.10.07-08.07.43:762][415]LogModuleManager: Shutting down and abandoning module PackagesDialog (388)
+[2017.10.07-08.07.43:762][415]LogModuleManager: Shutting down and abandoning module Persona (386)
+[2017.10.07-08.07.43:762][415]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (385)
+[2017.10.07-08.07.43:762][415]LogModuleManager: Shutting down and abandoning module AnimGraph (383)
+[2017.10.07-08.07.43:762][415]LogModuleManager: Shutting down and abandoning module Kismet (380)
+[2017.10.07-08.07.44:516][415]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.742 s
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: === Handled ensure: ===
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: 
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: Ensure condition failed: PinHelpers::NumPinsInMemory == 0 || PinHelpers::NumPinsInMemory == 1 [File:D:\Build\++UE4+Release-4.17+Compile\Sync\Engine\Source\Runtime\Engine\Private\EdGraph\EdGraphPin.cpp] [Line: 1164]
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: 
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: Stack: 
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000003FAF3E36
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000003F87C2D2
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000003F894746
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: UE4Editor-Engine.dll!0x0000000035CD8243
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: UE4Editor-Core.dll!0x000000003F98B787
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: UE4Editor.exe!0x00000000A6BD2E26
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: UE4Editor.exe!0x00000000A6BD39A5
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: UE4Editor.exe!0x00000000A6BD39EA
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: UE4Editor.exe!0x00000000A6BE02D9
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: UE4Editor.exe!0x00000000A6BE1C47
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: KERNEL32.DLL!0x0000000078652774
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: ntdll.dll!0x000000007AEA0D51
+[2017.10.07-08.07.44:516][415]LogOutputDevice: Error: 
+[2017.10.07-08.07.44:521][415]LogStats:                SubmitErrorReport -  0.000 s
